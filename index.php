@@ -22,11 +22,11 @@
 						<!-- Features -->
 							<?php include 'components/pages/features.php'; ?>
 						<!-- Events -->
-							<?php include 'components/pages/features.php'; ?>
+							<?php include 'components/pages/events.php'; ?>
 						<!-- Content -->
 							<?php include 'components/pages/contents.php'; ?>
 						<!-- Skills -->
-							<?php include 'components/pages/contents.php'; ?>
+							<?php include 'components/pages/skills.php'; ?>
 						<!-- Gameplay -->
 							<?php include 'components/pages/gameplay.php'; ?>
 						<!-- Contact -->
