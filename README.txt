@@ -1,23 +1,15 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Divine Ascension - Mystic (Project) 5 - rAthena
 
+## 1. Info
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+This website is meant to be used to display news about the Mystic (project) 5 development.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 2. Theme
 
-(* = not included)
+Theme is : Dimension by HTML5 UP (html5up.net | @ajlkn)
+Is is free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
+## 3. Notes
 
 	Demo Images:
 		Unsplash (unsplash.com)
@@ -28,3 +20,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+## 4. License
+
+Copyright (c) Mystic Team & rAthena Development Team
