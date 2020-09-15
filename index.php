@@ -19,6 +19,8 @@
 				<?php include 'components/header.php'; ?>
 				<!-- Main -->
 					<div id="main">
+						<!-- News -->
+							<?php include 'components/pages/news.php'; ?>
 						<!-- Features -->
 							<?php include 'components/pages/features.php'; ?>
 						<!-- Events -->
@@ -34,7 +36,6 @@
 						<!-- Elements -->
 							<?php include 'components/pages/elements.php'; ?>
 					</div>
-
 				<!-- Footer -->
 					<?php include 'components/footer.php'; ?>
 			</div>
