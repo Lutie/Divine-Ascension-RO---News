@@ -5,9 +5,9 @@
     <div class="content">
         <div class="inner">
             <h1>Divine Ascension Ragnarok Online</h1>
-            <p>DARO is a custom pre-renewal server for Ragnarok Online.<br />
-            Our goal is to keep the original gameplay sensations but with new contents !<br />
-            Follow us on our <a href="https://www.facebook.com/dgroserv">Facebook</a>.</p>
+            <p><span data-trans="header.text.1"></span><br />
+            <span data-trans="header.text.2"></span><br />
+            <span data-trans="header.text.3"></span> <a href="https://www.facebook.com/dgroserv">Facebook</a>.</p>
         </div>
     </div>
     <nav>

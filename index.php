@@ -50,6 +50,10 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script type="text/json" src="assets/translations/en.json"></script>
+			<script type="text/json" src="assets/translations/fr.json"></script>
+			<script src="assets/js/app.js"></script>
+			<script src="assets/js/cookie.js"></script>
 			<script src="assets/js/translation.js"></script>
 	</body>
 </html>
