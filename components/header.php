@@ -13,6 +13,7 @@
     <nav>
         <ul>
             <li><a href="#news">News</a></li>
+            <li><a href="#progress">Progress</a></li>
             <li><a href="#features">Configs</a></li>
             <li><a href="#contents">Contents</a></li>
             <li><a href="#events">Events</a></li>

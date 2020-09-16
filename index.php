@@ -21,6 +21,8 @@
 					<div id="main">
 						<!-- News -->
 							<?php include 'components/pages/news.php'; ?>
+						<!-- Progress -->
+							<?php include 'components/pages/progress.php'; ?>
 						<!-- Features -->
 							<?php include 'components/pages/features.php'; ?>
 						<!-- Events -->
@@ -47,6 +49,6 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script src="assets/js/translutie.js"></script>
+			<script src="assets/js/translation.js"></script>
 	</body>
 </html>
