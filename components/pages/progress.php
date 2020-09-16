@@ -8,6 +8,7 @@
         <li>Loots :  0%</li>
         <li>Events : 0%</li>
         <li>Dungeons : 20%</li>
+        <li>Npcs : 10%</li>
     </ul>
     <ul>
         <li>Specialisations : 30%</li>
