@@ -5,19 +5,22 @@
     <div class="content">
         <div class="inner">
             <h1>Divine Ascension Ragnarok Online</h1>
-            <p>Content will be upgraded soon with news and insight about the new project !<br />
-            For the moment you already can follow us on <a href="https://www.facebook.com/dgroserv">Facebook</a>.</p>
+            <p>DARO is a custom pre-renewal server for Ragnarok Online.<br />
+            Our goal is to keep the original gameplay sensations but with new contents !<br />
+            Follow us on our <a href="https://www.facebook.com/dgroserv">Facebook</a>.</p>
         </div>
     </div>
     <nav>
         <ul>
-            <li><a href="#features">Main Infos</a></li>
-            <li><a href="#events">Events</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#progress">Progress</a></li>
+            <li><a href="#features">Configs</a></li>
             <li><a href="#contents">Contents</a></li>
-            <li><a href="#skills">Skills</a></li>
+            <li><a href="#events">Events</a></li>
             <li><a href="#gameplay">Gameplay</a></li>
+            <li><a href="#skills">Skills</a></li>
             <li><a href="#aboutus">About us</a></li>
-            <li><a href="#elements">Elements sample</a></li>
+			<!-- No links visible for elements, just add /#elements at the URL -->
         </ul>
     </nav>
 </header>

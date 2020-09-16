@@ -1,9 +1,17 @@
 /*
 	Mystic 5
-	Here => our CSS
 */
 
 .logo-img{
     margin: 10% 10%;
     width: 80%;
+}
+
+@font-face {
+    font-family: "allember";
+    src: url("../fonts/allember.ttf");
+}
+  
+h1 {
+    font-family: "Allember", serif;
 }

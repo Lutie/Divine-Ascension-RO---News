@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -19,6 +20,10 @@
 				<?php include 'components/header.php'; ?>
 				<!-- Main -->
 					<div id="main">
+						<!-- News -->
+							<?php include 'components/pages/news.php'; ?>
+						<!-- Progress -->
+							<?php include 'components/pages/progress.php'; ?>
 						<!-- Features -->
 							<?php include 'components/pages/features.php'; ?>
 						<!-- Events -->
@@ -34,7 +39,6 @@
 						<!-- Elements -->
 							<?php include 'components/pages/elements.php'; ?>
 					</div>
-
 				<!-- Footer -->
 					<?php include 'components/footer.php'; ?>
 			</div>
@@ -46,5 +50,6 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/translation.js"></script>
 	</body>
 </html>
