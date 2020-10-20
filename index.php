@@ -24,20 +24,26 @@
 							<?php include 'components/pages/news.php'; ?>
 						<!-- Progress -->
 							<?php include 'components/pages/progress.php'; ?>
+						<!-- Configs -->
+							<?php include 'components/pages/configs.php'; ?>
 						<!-- Features -->
 							<?php include 'components/pages/features.php'; ?>
 						<!-- Events -->
 							<?php include 'components/pages/events.php'; ?>
-						<!-- Content -->
-							<?php include 'components/pages/contents.php'; ?>
+						<!-- World -->
+							<?php include 'components/pages/world.php'; ?>
+						<!-- Quests -->
+							<?php include 'components/pages/quests.php'; ?>
 						<!-- Skills -->
 							<?php include 'components/pages/skills.php'; ?>
-						<!-- Gameplay -->
-							<?php include 'components/pages/gameplay.php'; ?>
+						<!-- Other Custom -->
+							<?php include 'components/pages/contents.php'; ?>
 						<!-- Contact -->
 							<?php include 'components/pages/about-us.php'; ?>
 						<!-- Elements -->
 							<?php include 'components/pages/elements.php'; ?>
+						<!-- Infos : Loga -->
+							<?php include 'components/infos/logarithmic.php'; ?>
 					</div>
 				<!-- Footer -->
 					<?php include 'components/footer.php'; ?>

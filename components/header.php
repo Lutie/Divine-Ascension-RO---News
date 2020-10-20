@@ -12,15 +12,19 @@
     </div>
     <nav>
         <ul>
+			<!-- Global -->
             <li><a href="#news">News</a></li>
             <li><a href="#progress">Progress</a></li>
-            <li><a href="#features">Configs</a></li>
-            <li><a href="#contents">Contents</a></li>
+            <li><a href="#configs">Configs</a></li>
+			<!-- Custom -->
             <li><a href="#events">Events</a></li>
-            <li><a href="#gameplay">Gameplay</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#world">World</a></li>
+            <li><a href="#quests">Quests</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#aboutus">About us</a></li>
-			<!-- No links visible for elements, just add /#elements at the URL -->
+            <li><a href="#contents">Contents</a></li>
+			<!-- Other -->
+            <li><a href="#aboutus">About Us</a></li>
         </ul>
     </nav>
 </header>
