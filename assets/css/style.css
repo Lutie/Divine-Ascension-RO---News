@@ -21,6 +21,30 @@ h1 {
     margin: 0 10px;
 }
 
+.info_frame {
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin: 32px 16px 16px;
+    padding: 16px 32px;
+}
+
+.col {
+    display: flex;
+    justify-content: space-between;
+}
+
+.author {
+    width: 100%;
+    padding-right: 32px;
+    font-weight: 500;
+    text-align: right;
+}
+
+article {
+    padding-bottom: 48px !important;
+}
+
 /*
 	Progress Bar (http://jsfiddle.net/cherryflavourpez/Bq3Fm/)
 */

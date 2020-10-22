@@ -21,8 +21,8 @@
             <li><a href="#features">Features</a></li>
             <li><a href="#world">World</a></li>
             <li><a href="#quests">Quests</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#contents">Contents</a></li>
+            <li><a href="#gameplay">Gameplay</a></li>
+            <li><a href="#contents">Other</a></li>
 			<!-- Other -->
             <li><a href="#aboutus">About Us</a></li>
         </ul>

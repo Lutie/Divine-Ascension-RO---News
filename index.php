@@ -34,8 +34,8 @@
 							<?php include 'components/pages/world.php'; ?>
 						<!-- Quests -->
 							<?php include 'components/pages/quests.php'; ?>
-						<!-- Skills -->
-							<?php include 'components/pages/skills.php'; ?>
+						<!-- Gameplay -->
+							<?php include 'components/pages/gameplay.php'; ?>
 						<!-- Other Custom -->
 							<?php include 'components/pages/contents.php'; ?>
 						<!-- Contact -->
@@ -44,6 +44,32 @@
 							<?php include 'components/pages/elements.php'; ?>
 						<!-- Infos : Loga -->
 							<?php include 'components/infos/logarithmic.php'; ?>
+						<!-- Infos : Skills -->
+							<?php include 'components/infos/skills.php'; ?>
+							<!-- Infos : All jobs -->
+								<?php include 'components/infos/jobs/acolyte.php'; ?>
+								<?php include 'components/infos/jobs/alchimist.php'; ?>
+								<?php include 'components/infos/jobs/archer.php'; ?>
+								<?php include 'components/infos/jobs/assassin.php'; ?>
+								<?php include 'components/infos/jobs/blacksmith.php'; ?>
+								<?php include 'components/infos/jobs/crusader.php'; ?>
+								<?php include 'components/infos/jobs/gunslinger.php'; ?>
+								<?php include 'components/infos/jobs/hunter.php'; ?>
+								<?php include 'components/infos/jobs/knight.php'; ?>
+								<?php include 'components/infos/jobs/mage.php'; ?>
+								<?php include 'components/infos/jobs/merchant.php'; ?>
+								<?php include 'components/infos/jobs/monk.php'; ?>
+								<?php include 'components/infos/jobs/ninja.php'; ?>
+								<?php include 'components/infos/jobs/performer.php'; ?>
+								<?php include 'components/infos/jobs/priest.php'; ?>
+								<?php include 'components/infos/jobs/rogue.php'; ?>
+								<?php include 'components/infos/jobs/sage.php'; ?>
+								<?php include 'components/infos/jobs/soul_linker.php'; ?>
+								<?php include 'components/infos/jobs/star_gladiator.php'; ?>
+								<?php include 'components/infos/jobs/swordman.php'; ?>
+								<?php include 'components/infos/jobs/taekwon.php'; ?>
+								<?php include 'components/infos/jobs/thief.php'; ?>
+								<?php include 'components/infos/jobs/wizard.php'; ?>
 					</div>
 				<!-- Footer -->
 					<?php include 'components/footer.php'; ?>
