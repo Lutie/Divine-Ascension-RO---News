@@ -5,5 +5,17 @@
             "2": "Our goal is to keep the original gameplay sensations but with new contents !",
             "3": "Follow us on our"
         }
+    },
+    "skills": {
+        "blessing": {
+            "1": "Gives 5*SkillLv DEF2 and MDEF2",
+            "2": "Gives an additional SkillLv% bonus to DEF and MDEF",
+            "3": "Gives an additional SkillLv bonus to VIT"
+        },
+        "holylight": {
+            "1": "Up to Lv 5 : Each level after the first add 75% to damage (so the formula is (50 + 75 * SkillLv)%) and 0,5 seconds to timecast",
+            "2": "Changes on this skill imply it is accessible in the skill tree without a link",
+            "3": "A soul linked priest adds +475% damage to base formula (so the skill at level 1 is the same as before)"
+        }
     }
 }

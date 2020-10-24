@@ -23,6 +23,6 @@
     <h4>Nouveaux Equipements</h4>
     <p>Entre l'équipement renewal revus pour coller aux prétentions d'un pre-renewal et l'équipement custom adaptés aux contenus le plus difficile de DARO, il y a beaucoups à obtenir.</p>
 
-    <h4>Armes LVL 5</h4>
-    <p>DARO a pour objectif de proposer aux joueurs plus de façon de jouer leurs personnages et cela passe par un choix d'armes équilibrés qui permettent plus de possibilités ! C'est ce qu'incarnent les armes de niveau 5 : Des armes calculées pour être parfaitement équilibrées.</p>
+    <h4>Nouvelles Armes</h4>
+    <p>DARO a pour objectif de proposer aux joueurs plus de façon de jouer leurs personnages et cela passe par un choix d'armes équilibrée qui permettent plus de possibilités pour toutes les classes ! C'est ce qu'incarnent les armes de niveau 5 : Des armes calculées pour être parfaitement équilibrées.</p>
 </article>

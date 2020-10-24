@@ -41,6 +41,15 @@ h1 {
     text-align: right;
 }
 
+.news_img {
+    position: absolute;
+    right: 48px;
+}
+
+.info_frame ul {
+    margin-bottom: 16px;
+}
+
 article {
     padding-bottom: 48px !important;
 }

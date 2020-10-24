@@ -22,8 +22,9 @@
         <ul>
             <li>Max stats: 99</li>
             <li>Max ASPD: 190</li>
-            <li>Haircuts: ???</li>
-            <li>Dye Colors: ???</li>
+            <li>Hair Colors: ???</li>
+            <li>Hair Styles: 87 female, 85 male</li>
+            <li>Dye Colors: 251</li>
             <li>Instant cast: No</li>
             <li>Party share: 15 levels</li>
             <li>Capital City : Midgard (Custom)</li>
