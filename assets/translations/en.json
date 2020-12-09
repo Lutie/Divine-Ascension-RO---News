@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "language": "Availables languages :"
+    },
     "infos": {
         "logarithmic": {
             "1": "We use a logarithmic drop system which allows a better distribution of the drop chances without pouring quickly in extremes."
@@ -16,11 +19,11 @@
         "about-us": {
             "1": "About Us",
             "2": "Mystic Project is more than 18 years old:",
-            "3": "- Mystic Project I - Mystic RO. (2002~2004)",
-            "4": "- Mystic Project II - Realm RO. (2004~2006)",
-            "5": "- Mystic Project III - Garden Angel RO. (2006~2008)",
-            "6": "- Mystic Project IV - Derniere Genese RO. (2010~2012)",
-            "7": "- Mystic Project V - Divine Ascension RO. (2020~)",
+            "3": "Mystic Project 1 - Mystic RO. (2002~2004)",
+            "4": "Mystic Project 2 - Realm RO. (2004~2006)",
+            "5": "Mystic Project 3 - Garden Angel RO. (2006~2008)",
+            "6": "Mystic Project 4 - Derniere Genese RO. (2010~2012)",
+            "7": "Mystic Project 5 - Divine Ascension RO. (2020~)",
             "8": "All projects were based on the concept of customs. We tried our best to be as close as balance and perfection while having features that won't exist anywhere. ",
             "9": "Our goal is to create an environment that players have never seen before. Something that goes beyond anything you can imagine from Ragnarok Online.",
             "10": "This last opus have deployed all we could do and will probably be the last. All features and things that we've created the past 15years are finally coming together and making a beautiful and perfect harmony.",
@@ -236,7 +239,7 @@
             "3": "Configs",
             "4": "Events",
             "5": "Features",
-            "6": "New World",
+            "6": "World",
             "7": "Quests",
             "8": "Gameplay",
             "9": "Other",

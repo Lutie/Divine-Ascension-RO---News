@@ -88,5 +88,7 @@
 			<script src="assets/js/cookie.js"></script>
 			<script src="assets/js/translation.js"></script>
 			<script src="assets/js/scripts.js"></script>
+		<!-- Widgets -->
+			<span class="current-lang"></span>
 	</body>
 </html>
