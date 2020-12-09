@@ -1,34 +1,34 @@
 <article id="quests">
-    <h2 class="major">Quests</h2>
-    <span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+    <h2 class="major" data-trans="pages.quests.1"></h2>
+    <span class="image main"><img src="images/ban04.jpg" alt="quest" /></span>
     
     <div class="info_frame">
-        <h4>Quêtes Mercenaires</h4>
-        <div>Les quêtes mercenaires sont journalières et peuvent prendre diverses formes : Monstre à chasser, trésors à trouver, etc...</div>
+        <h4 data-trans="pages.quests.2"></h4>
+        <div data-trans="pages.quests.3"></div>
     </div>
     
     <div class="info_frame">
-        <h4>Quêtes Customs</h4>
-        <div>Au fil des années nous avons eu l'occasion de réaliser de nombreuses quêtes au contenu très diversifié et ludique. Il est donc tout naturel de retrouver ce contenu dans ce nouvel épisode !</div>
+        <h4 data-trans="pages.quests.4"></h4>
+        <div data-trans="pages.quests.5"></div>
     </div>
     
     <div class="info_frame">
-        <h4>Quêtes Principales</h4>
-        <div>De nouvelles aventures longues et périlleuses s'offrent aux joueurs ! Vivez l'aventure en étant au coeur des événements les plus marquants !</div>
+        <h4 data-trans="pages.quests.6"></h4>
+        <div data-trans="pages.quests.7"></div>
     </div>
     
     <div class="info_frame">
-        <h4>Hatori Enzo</h4>
-        <div>Le maitre forgeron est capable de créer et améliorer les armes les plus diverses et les plus puissantes du monde de Rune Midgard. Il suffit de lui amener ce dont il a besoin... ce qui est plus facile à dire qu'à faire.</div>
+        <h4 data-trans="pages.quests.8"></h4>
+        <div data-trans="pages.quests.9"></div>
     </div>
     
     <div class="info_frame">
-        <h4>Tour de Babel</h4>
-        <div>La Tour de Babel se dresse devant vous et met à rude épreuve votre tactique et votre endurance, en solo ou en équipe, dans des salles successives à difficultés croissantes.</div>
+        <h4 data-trans="pages.quests.10"></h4>
+        <div data-trans="pages.quests.11"></div>
     </div>
     
     <div class="info_frame">
-        <h4>Laboratoire de Monstre (?)</h4>
-        <div>Participez à des événements ponctuels et quotidiens confrontant les joueurs à des vagues de monstres aléatoires !</div>
+        <h4 data-trans="pages.quests.12"></h4>
+        <div data-trans="pages.quests.13"></div>
     </div>
 </article>

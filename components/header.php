@@ -13,18 +13,18 @@
     <nav>
         <ul>
 			<!-- Global -->
-            <li><a href="#news">News</a></li>
-            <li><a href="#progress">Progress</a></li>
-            <li><a href="#configs">Configs</a></li>
+            <li><a href="#news" data-trans="header.type.1"></a></li>
+            <li><a href="#progress" data-trans="header.type.2"></a></li>
+            <li><a href="#configs" data-trans="header.type.3"></a></li>
 			<!-- Custom -->
-            <li><a href="#events">Events</a></li>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#world">World</a></li>
-            <li><a href="#quests">Quests</a></li>
-            <li><a href="#gameplay">Gameplay</a></li>
-            <li><a href="#contents">Other</a></li>
+            <li><a href="#events" data-trans="header.type.4"></a></li>
+            <li><a href="#features" data-trans="header.type.5"></a></li>
+            <li><a href="#world" data-trans="header.type.6"></a></li>
+            <li><a href="#quests" data-trans="header.type.7"></a></li>
+            <li><a href="#gameplay" data-trans="header.type.8"></a></li>
+            <li><a href="#contents" data-trans="header.type.9"></a></li>
 			<!-- Other -->
-            <li><a href="#aboutus">About Us</a></li>
+            <li><a href="#aboutus" data-trans="header.type.10"></a></li>
         </ul>
     </nav>
 </header>

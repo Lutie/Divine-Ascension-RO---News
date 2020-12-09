@@ -1,5 +1,5 @@
 <article id="progress">
-    <h2 class="major">Progress</h2>
+    <h2 class="major" data-trans="pages.progress.1"></h2>
     
     <div class="info_frame">
         <h3>Global</h3>

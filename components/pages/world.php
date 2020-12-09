@@ -1,15 +1,15 @@
 <article id="world">
-    <h2 class="major">World & Donjons</h2>
-    <span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+    <h2 class="major" data-trans="pages.world.1"></h2>
+    <span class="image main"><img src="images/ban03.jpg" alt="world - north" /></span>
     <p>
-        <span>DARO propose d'étendre le monde de Rune Midgard et l'expérience originale de Ragnarok Online en ajoutant de multiples lieux à explorer réservés aux aventuriers les plus expérimentés !</span><br>
-        <span>Qu'il s'agisse de profiter comme il se doit des anciennes cartes du jeu ou d'en mettre de nouvelle sous le feu des projecteurs, toutes les occasions sont bonnes pour offrir de nouvelles raisons de fouler le sol de Rune Midgard !</span><br>
-        <span>Dans les nouvelles zones les monstres sont "élites" : Ce sont des versions plus coriaces des monstres bien connus de Ragnarok Online, affublés de nouvelles stratégies et rôles !</span>
+        <span data-trans="pages.world.2"></span><br>
+        <span data-trans="pages.world.3"></span><br>
+        <span data-trans="pages.world.4"></span>
     </p>
 
     <div class="info_frame">
-        <h4>Donjons Nightmare</h4>
-        <p>Ces donjons cauchemardesques sont des versions instanciers plus difficiles des donjons originaux. Oui, il y en a beaucoups !</p>
+        <h4 data-trans="pages.world.5"></h4>
+        <p data-trans="pages.world.6"></p>
         <div class="col">
             <ul>
                 <li>Haunted Payon Cave</li>
@@ -44,56 +44,124 @@
                 <li>Niflheim's Hell</li>
             </ul>
         </div>
+		<?php
+		$captionsText = [
+		"",
+		"Ageless Pyramids & display of the 6 runes to find to summon the mvp",
+		"Ancient Clock Tower",
+		"Erupted Thor Volcano",
+		"Forbidden Byalan",
+		"Furious Mt Mjolnir",
+		"Geffen Tower Tournament",
+		"Haunted Payon Cave",
+		"Horror Toy Factory",
+		"Inglorious Turtle Island",
+		"Mighty Orc Invasion",
+		"Niflheim's Hell",
+		"Overflowed Culvert"
+		];
+		$folder = "nightmare";
+		$size = "xlarge";
+		?>
+		<?php include 'include/slider.php'; ?>
     </div>
 
     <div class="info_frame">
-        <h4>North Fields : North of Rune Midgard</h4>
-        <p>Ces zones (constituées uniquement de cartes inédites) forment une nouvelle facette du monde à découvrir : Le nord de Rune Midgard ! Les monstres y sont identiques à ceux de Runes Midgard sud mais en plus difficile.</p>
+        <h4 data-trans="pages.world.7"></h4>
+        <p data-trans="pages.world.8"></p>
         <ul>
-            <li>Région de Midgard</li>
-            <li>Région de Myrkvior</li>
-            <li>Région de Muspell</li>
-            <li>Région de Jutenheim</li>
-            <li>Région de Vigrid</li>
-            <li>Région d’Asgard</li>
-            <li>Région de Fayon</li>
-            <li>Région d’Hylo</li>
-            <li>Région de Caspen</li>
-            <li>Région d’Eden</li>
+            <li>Midgard Region</li>
+            <li>Myrkvior Region</li>
+            <li>Muspell Region</li>
+            <li>Jutenheim Region</li>
+            <li>Vigrid Region</li>
+            <li>Asgard Region</li>
+            <li>Fayon Region</li>
+            <li>Hylo Region</li>
+            <li>Caspen Region</li>
+            <li>Eden Region</li>
         </ul>
+		<?php
+		$captionsText = [
+		"",
+		"Asgard Region",
+		"Caspen Region",
+		"Jutenheim Region",
+		"Myrkvior Region"
+		];
+		$folder = "field";
+		$size = "medium";
+		?>
+		<?php include 'include/slider.php'; ?>
     </div>
 
     <div class="info_frame">
-        <h4>World Donjons : God's Temples</h4>
-        <p>Ces temples érigés en l'honneur des divinités de Rune Midgard représentent le premier degré de la difficulté inhérente aux terres du nord !</p>
+        <h4 data-trans="pages.world.9"></h4>
+        <p data-trans="pages.world.10"></p>
         <ul>
-            <li>Temple de Loki</li>
-            <li>Temple de Thor</li>
-            <li>Temple de Freyja</li>
-            <li>Temple de Bragi</li>
+            <li>Loki Temple</li>
+            <li>Thor Temple</li>
+            <li>Freyja Temple</li>
+            <li>Bragi Temple</li>
         </ul>
+		<?php
+		$captionsText = [
+		"",
+		"Loki Temple",
+		"Thor Temple",
+		"Freyja Temple",
+		"Bragi Temple",
+		];
+		$folder = "donjon_temple";
+		$size = "large";
+		?>
+		<?php include 'include/slider.php'; ?>
     </div>
 
     <div class="info_frame">
-        <h4>World Donjons : Elemental Donjons</h4>
-        <p>Ces donjons incarnés par les éléments primaires représentent le second degré de la difficulté inhérente aux terres du nord !</p>
+        <h4 data-trans="pages.world.11"></h4>
+        <p data-trans="pages.world.12"></p>
         <ul>
-            <li>Volcan de Shivan (Fire)</li>
+            <li>Shivan's Volcano (Fire)</li>
             <li>Atalantide (Water)</li>
-            <li>Retraite du Titan (Earth)</li>
-            <li>Tour des Tempêtes (Wind)</li>
+            <li>Titan's Retreat (Earth)</li>
+            <li>Tyr's Tower (Wind)</li>
         </ul>
+		<?php
+		$captionsText = [
+		"",
+		"Shivan's Volcano (Fire)",
+		"Atalantide (Water)",
+		"Titan's Retreat (Earth)"
+		];
+		$folder = "donjon_elemental";
+		$size = "large";
+		?>
+		<?php include 'include/slider.php'; ?>
     </div>
 
     <div class="info_frame">
-        <h4>World Donjons : Ascension to Divinity</h4>
-        <p>Ces donjons longs et complexes représentent le dernier degré de la difficulté proposée par les terres du nord !</p>
+        <h4 data-trans="pages.world.13"></h4>
+        <p data-trans="pages.world.14"></p>
         <ul>
-            <li>Citadelle sans Fin</li>
-            <li>Manoir Creux</li>
-            <li>Académie de Tolaria</li>
-            <li>Bastion</li>
-            <li>Les Abysses</li>
+            <li>The Neverending Citadel</li>
+            <li>Hollow Castle</li>
+            <li>Tolaria's Academy</li>
+            <li>Utgard's Fortress</li>
+            <li>The Deep Abysses</li>
         </ul>
+		<?php
+		$captionsText = [
+		"",
+		"The Neverending Citadel",
+		"Hollow Castle",
+		"Tolaria's Academy",
+		"Utgard's Fortress",
+		"The Deep Abysses"
+		];
+		$folder = "donjon_divinity";
+		$size = "large";
+		?>
+		<?php include 'include/slider.php'; ?>
     </div>
 </article>

@@ -1,5 +1,247 @@
 {
+    "infos": {
+        "logarithmic": {
+            "1": "We use a logarithmic drop system which allows a better distribution of the drop chances without pouring quickly in extremes."
+        },
+        "skills": {
+            "1": "The skills of the game have been modified respecting the following objectives (in order of importance):",
+            "2": "To generate new strategies",
+            "3": "Make skills that were not useful / no longer useful more interesting",
+            "4": "To balance the gameplay",
+            "5": "Allow all skills to have at least 5 levels",
+            "6": "Allow certain skills to be useful at a level higher than their maximum (Check Kugan - Spe)"
+        }
+    },
+    "pages": {
+        "about-us": {
+            "1": "About Us",
+            "2": "Mystic Project is more than 18 years old:",
+            "3": "- Mystic Project I - Mystic RO. (2002~2004)",
+            "4": "- Mystic Project II - Realm RO. (2004~2006)",
+            "5": "- Mystic Project III - Garden Angel RO. (2006~2008)",
+            "6": "- Mystic Project IV - Derniere Genese RO. (2010~2012)",
+            "7": "- Mystic Project V - Divine Ascension RO. (2020~)",
+            "8": "All projects were based on the concept of customs. We tried our best to be as close as balance and perfection while having features that won't exist anywhere. ",
+            "9": "Our goal is to create an environment that players have never seen before. Something that goes beyond anything you can imagine from Ragnarok Online.",
+            "10": "This last opus have deployed all we could do and will probably be the last. All features and things that we've created the past 15years are finally coming together and making a beautiful and perfect harmony.",
+            "11": "We really hope you will enjoy it.",
+            "12": "               Team Mystic",
+            "20": "Lutie : Admin EU & Developer (Coding, Scripting, DB, web) & Game Designer",
+            "21": "Grenat : Admin US & Developer (Coding, Scripting, DB, Mapping, Client)",
+            "22": "Kaly : Community Helper",
+            "23": "Shin Bi : Web Developer"
+        },
+        "configs": {
+            "1": "Server Configurations",
+            "2": "Here are the main configurations of DaRO",
+            "3": "Main Configs",
+            "4": "Misc Configs"
+	},
+        "contents": {
+            "1": "Custom Contents",
+            "2": "Musics",
+            "3": "We have made it a point of honor to find musics that are as close as possible to Ragnarok Online (notably via remixes and songs from the same composers).",
+            "4": "Language",
+            "5": "The client can be launched in multiple languages and the game supports a majority of the new content in multiple languages as well !",
+            "6": "Skins",
+            "7": "It is possible to obtain the skins of jobs 3, alternative jobs 3 and even jobs 4 !",
+            "8": "Costumes",
+            "9": "Obtain new costumes and skins for you and your Qpet as you adventure!",
+            "10": "Gems System",
+            "11": "Upgrade your equipment with gems that can be improved by accumulating more !",
+            "12": "New Qpets System",
+            "13": "The QPet system has been completely redesigned to offer a little freshness on this mechanism which is much more interesting than ever.",
+            "14": "New Stuff",
+            "15": "Between the renewal equipment revised to meet the claims of a pre-renewal and the custom equipment adapted to the most difficult content of DARO, there is a lot to be obtained.",
+            "16": "Weapon Level 5",
+            "17": "DARO aims to offer players more ways to play their characters and this involves a choice of balanced weapons that allow more possibilities for all classes! This is what level 5 weapons embody: Weapons calculated to be perfectly balanced.",
+            "18": "Enchant System",
+            "19": "Unlike the official system, you can now enchant many parts of your equipment. The bonuses have been thought to be performant and yet balanced.",
+            "20": "Quality System",
+            "21": "Qualities can be imbued in many parts of your equipment. (Up to 3) It gives you random bonuses with random percantage ! Possibility to add/remove a quality if requirements met.",
+            "22": "Custom Smart Instances",
+            "23": "Haven't you thought that RO is missing of smart/well-thought and challenging instances ? With trials and puzzles to resolve ? You will absolutely enjoy our smart instances !",
+            "24": "Trial of Babel",
+            "25": "This 15 years old trial has changed along the years but this last one we've done is beyond expectations. Be in the top 3 of the Trial of Babel."
+	},
+        "events": {
+            "1": "DARO wants to offer many types of events to players in order to give you the best pleasures of playing !",
+            "2": "The server honors the first version of the War of Emperium.",
+            "3": "The number of open castles depends on the number of connected players and all participants are rewarded in one way or another, not just the winners !",
+            "4": "This event is played in a guild.",
+            "5": "One of the most famous features of Mystic Projects is back: WoE Dominations offers guilds the opportunity to compete in a battle for strategic positions.",
+            "6": "For the occasion, DARO is innovating with the help of a map that is much better placed and larger than before. Here too all participants are rewarded in one way or another, not just the winners!",
+            "7": "This event is played in a guild.",
+            "8": "Evidently, the players will be able to do battle in small groups during the Battle Grounds that they will be able to launch themselves.",
+            "9": "The nature of the BGs will be determined in the coming months, the best format will obviously be chosen !",
+            "10": "This event is played in a group determined randomly during registration.",
+            "11": "This event is played in a group determined randomly during registration.",
+            "12": "This event is played solo.",
+            "13": "Invasions are random events that can occur in the evening: the large cities of southern Midgard are then the target of waves of monsters that must be repelled !",
+            "14": "This event is played with everyone !",
+            "15": "This event with no beginning or end opposed all players in a war against divine forces seeking to bring the end of the world !",
+            "16": "The War evolves as players participate and swings back when the tension is released.",
+            "17": "This event is played with everyone !",
+            "18": "The Pecopeco races are one of the flagship events of the Mystic projects and this latest version offers a whole new version !",
+            "19": "Guide your lovingly bred Pecopeco to victory on the racetrack!",
+            "20": "This event is played solo or against players.",
+            "21": "Event - Automated events",
+            "22": "In order to liven up the daily life, many other automated events are planned ... But the list will be revealed later!",
+            "23": "These events will surely be played solo."
+	},
+        "features": {
+            "1": "Features",
+            "2": "Specializations",
+            "3": "Become unique by mastering your kugan, this force that sleeps in everyone and that transcends being at a higher stage.",
+            "4": "By observing a mastered balance, the specializations open up a new paradigm of possibilities and gameplay ! We seek to offer more without ever walking in the footsteps of renewal.",
+            "5": "The specializations are more than 15 years old, it started in Realm RO (Mystic Project I) and they are now back in a version that wants to be more efficient and accessible, with endless possibilities (or almost, approximately).",
+            "6": "By mastering specializations you can make the advantages of a class your own or deepen yours!"
+	},
+        "gameplay": {
+            "1": "Skills Reworked",
+            "2": "All the skills of the game have been reviewed and corrected to open up new possibilities and combinations. Everything has been implemented so that the best skills remain the best but also so that there are new paths and a better balance of classes (in their respective roles).",
+            "3": "View the modifications",
+            "4": "All skills can now be critical !",
+            "5": "They now can be critical, which is based on Critical value and take into account cards that give CRIT vs race, etc...",
+            "6": "Critical resistance reduce critical skills rate by litteral % (just like normal critical attacks)",
+            "7": "Perfect Flee reduce critical skills rate by a ratio (just like normal critical attacks)",
+            "8": "Most critical misc attack adds more 2/3 damage but this may vary depending on the skill",
+            "9": "Critical physical attacks inflicts a third more damage, have half more hit rates (non flat bonus) and ignore a third of the target's defense, they still can miss their targets",
+            "10": "Critical magical attacks inflicts a third more damage and ignore a third of the target's magical defense",
+            "11": "Those skills only get 33% more damage on critical : Falcon Assault, Soul Destroyer, Acid Demonstration, Self Destruction",
+            "12": "Effect that increase critical damage also affect critical skills",
+            "13": "Healing skills can be critical, which increase the value by a third when occurred",
+            "14": "Bonus that increase critical damage also increase critical skills damage OR heal (2/3 efficiency)",
+            "15": "Some special attacks have been revised in order to be more effective, in particular to see especially on monsters (such as traps).",
+            "16": "Some misc attacks add some damage on monsters but this may vary depending on the skill (see modifications on each skill).",
+            "17": "Common Status - Global",
+            "18": "Some special attacks have been revised in order to be more effective, in particular to see especially on monsters (such as traps).",
+            "19": "Common status are : Stun, Silence, etc... + burning/chilling/jointbeat/ankle snare/decrease agi",
+            "20": "each point in LUK add/remove 0,33% and 0,2pt to common status rate resistance",
+            "21": "each base level apart add/remove 0,1pt to common status rate resistance",
+            "22": "common status duration based on attribute % is capped at 85%",
+            "23": "each point in LUK add/remove 0,1s to common status duration (applied after attribute % reduction)",
+            "24": "common status can be critical, which is only based on Critical value and don't take account cards that give CRIT vs race, katar bonus, etc",
+            "25": "critical common status ignores 50% of rate all and duration resistances (if those resistances are negative, impliying their behave as penalities, then they are augmented instead)",
+            "26": "each points in LUK give 0,2% resistance to critical common status",
+            "27": "Confusion resistance is based on VIT and the higher between STR or INT (instead VIT and INT)",
+            "28": "Common status have now a minimum duration : DOTs (poison, bleeding, burning, venom, toxin) can't last less than 5 seconds, Debuff (silence, blind, confusion, curse) can't last less than 3 seconds and Roots (stun, freeze, stone, sleep) can't last less than 1 seconds",
+            "29": "Common Status - DOT reworked",
+            "30": "The Damage Over Time statuses have been changed so that they can be the bases of real strategies.",
+            "31": "DOT status are : Poison / DPoison / Bleeding / Burning / Toxin",
+            "32": "DOT status damages are based on those formulas : 2 * (LUK + OFFSTAT + source BaseLV) - 1,5 * (LUK + DEFSTAT + target BaseLV)",
+            "33": "left side of the formula can't be reduce under 50% by the right side",
+            "34": "DOT status add damages based on max HP of the target",
+            "35": "Poison and Dpoison are based on DEX has OFFSTAT and VIT has DEFSTAT (Dpoison deal double damage), VIT of the target can prevent those common status",
+            "36": "Bleeding is based on STR has both OFFSTAT and DEFSTAT, VIT of the target can prevent this common status",
+            "37": "Burning is based on INT has OFFSTAT and AGI has DEFSTAT, MDEF of the target can prevent this common status",
+            "38": "Toxin is based on 1% of the max SP on the target (this is a special case)",
+            "39": "Can kill monsters, do not cease to work if HP are below 25%",
+            "40": "All ticks are fixed at 1s and damage is displayed at each ticks",
+            "41": "If no source is identified for formula calculation then (HIT + LUK + OFFSTAT) is replaced by 250",
+            "42": "DOT's ticks can be critical (don't count vs race cards) and a critical tick adds 50% damage",
+            "43": "Common Status - Upgrade",
+            "44": "The abnormal statuses have been changed so that they can be the bases of real strategies.",
+            "45": "Silence : No autospell under silence status",
+            "46": "Curse : Reduces STR/INT/DEX by 5 and 10%, also reduce player's damages/heals by 10% and reduce monster's damages/heals by 20%",
+            "47": "Blind : Adds 35% chance to inflict no damage (0) with attacks, can't do critical hits anymore (and critical reduce to 0)",
+            "48": "Confusion : 30% chance to attack itself (instead of targets) and monster have half less chances to use skills, 30% chance to stop when hit at full HP but way more chance if not (up to 100%), SP / zeny / ammo / gems requirement/consumption multiplied by 4, Spirits ball requirement/consumption multiplied by 2, attacks to itself litteraly change the target so damage calculation are based on the source (not the target), 50% chance to stop if monster",
+            "49": "Hallucination : Damage and heal are randomly changed to a value between 0 and the normal value, more chance to received critical hits and critical hits recieved inflict one third more damage, chance to received critical hits is increased by a fix value (10) and a percentage value (25%), attacks to itself keeps the damage calculation from the initial target",
+            "50": "Sleep : 30% chance to stop when hit at full HP but way more chance if not (up to 100%), 50% chance to stop if monster",
+            "51": "Charm : 30% chance to stop when hit at full HP but way more chance if not (up to 100%), 50% chance to stop if monster",
+            "52": "Bonus - Cap values",
+            "53": "Some bonuses have now soft and hard limits that cause players to think hard about how they equip themselves.",
+            "54": "All bonus behond the soft cap is halved",
+            "55": "All bonus behond the hard cap is halved again",
+            "56": "For the moment those cap are applied to element and race resistance bonus only",
+            "57": "Attributes - Overall",
+            "58": "Chances of hitting an opponent have been changed to keep dodge-focused builds interesting without going to extremes.",
+            "59": "At hit and flee equivalent the hit rate is 70%",
+            "60": "One's need to have 100 more flee than attacker's hit to reach 100% chance to flee",
+            "61": "One's need to have 100 more hit than defenser's flee to reach 100% chance to hit",
+            "62": "Perfect hit increase the hit rate ratio and perfect flee reduce the hit ratio, even for skills (which was not the case previouly)",
+            "63": "Attributes - Overall",
+            "64": "Certains attributs ont reçus des améliorations afin que tous les attributs soient utiles et garantir une forte diversité des builds possibles.",
+            "65": "Each point in Vitality grants chances to not be interrupted when attacked while casting (Each points grants 0,3%)",
+            "66": "Now affects After Skill Delay : Each points in Agility reduces ASD by 0,25%",
+            "67": "Every damages can be avoided at a rate of 10%, flee increase those odds and Hit reduce it (Ratio is actually Flee/Hit), and avoided attacks can still deal status etc...",
+            "68": "Monster - Global",
+            "69": "The monsters have been modified to ensure greater challenge and increased play possibilities !",
+            "70": "They grants zenys on death : Amount is based on monster's BaseLv",
+            "71": "Boss are not immune to common status anymore (but rate is reduced by 2/3 and duration are reduced by 4/5)",
+            "72": "Boss are not immune to some uncommon status anymore (Blessing (for undead), decrease agi, provoke, strips, fogwall, freezing, burning and toxin)",
+            "73": "Globally speaking lot of elements have been reworked in order to be more balanced and grants more possibilies",
+            "74": "Monsters can be elites and have classes that give them access to new skills. The goal of the classes is to allow players to observe patterns and give them the means to develop strategies !",
+            "75": "An elite monster is stronger in every way, and it also gives more XP etc.",
+            "76": "Over 145 different classes have been made for monsters.",
+            "77": "A class adds several skills to the monster in order to fulfill an objective or to give it a specific behavior.",
+            "78": "Monsters can have up to 5 classes.",
+            "79": "Certain skills (exclusive to monsters or not) have been improved in order to guarantee more possibilities and play strategies.",
+            "80": "Add 'cloaking' to mob_skill_db status list",
+            "81": "Blessing now increase monster's ATK/MATK by Lvl * 2% and HIT by LvL * 1%",
+            "82": "Agility Increase now decrease monster's delay and monster's skill cooldown by Lvl * 2% (maximum effects at level 20) and increase FLEE by LvL * 1%",
+            "83": "Pulestrike level 6 and more can't be avoided with the use of safety wall or pneuma",
+            "84": "Summon Monster : If the ID 0 is passed then the monster called will be the same as the user",
+            "85": "Lick : SP damage are now based on skillLv (20 per SkillLv) and user's luck/target's luck (+/- LUK/10 per SkillLv)",
+            "86": "Barrier : Duration is 2s per SkillLv (previously 50+10*SkillLv), classic monsters have it at lvl 5 (10s), reduce damage to 0 (Walking speed greatly reduced, all damage done reduced by 60%)",
+            "87": "Keeping : Duration is 3s per SkillLv (previously 50+10*SkillLv), classic monsters have it at lvl 5 (15s), reduce damage by 85% (physical and magical, Walking speed slightly reduced, all damage done reduced by 30%)",
+            "88": "Combo Attack : The multiple hits are real and not only a visual effect, the consequence of this is a longer after hit delay (which is increase by the number of hits) and damage are increased by 30% per hits ",
+            "89": "Comet : Damage reduced to be used on pre-re without shame",
+            "90": "Monsters can react to various new statuses (for himself or its target) (crashed, ensnared, cloaking, catching, bleeding, undead, hallucination, spirit, confused, enmeshed (spider web))"
+	},
+        "news": {
+            "1": "News",
+            "11": "So, after several long months of work DARO can finally make an official announcement! There is still a long way to go and there is still a lot to finish, but most of it is done and nothing can stop us now :) !",
+            "12": "DARO is the latest Mystic project to date. With more than 15 years of experience in the field, we are ready to deliver the most daring and mastered custom pre-renewal server that we have ever seen."
+	},
+        "progress": {
+            "1": "Progress"
+	},
+        "quests": {
+            "1": "Quests",
+            "2": "Mercenary Quests",
+            "3": "Les quêtes mercenaires sont journalières et peuvent prendre diverses formes : Monstre à chasser, trésors à trouver, etc...",
+            "4": "Custom Quests",
+            "5": "Over the years we have had the opportunity to complete many quests with very diverse and fun content. It is therefore natural to find this content in this new episode !",
+            "6": "Story Quest",
+            "7": "All new long and perilous adventures are available to players! Live the adventure by being at the heart of the most significant events!",
+            "8": "Hatori Henzo",
+            "9": "The family Henzo is able to create and improve the most diverse and powerful weapons in the world of Rune Midgard. You just have to get him what he needs ... which is easier said than done.",
+            "10": "Babel Tower",
+            "11": "The Tower of Babel stands in front of you and puts your tactics and endurance to the test, solo or in a team, in successive rooms of increasing difficulty.",
+            "12": "Map Party (Monster Laboratory)",
+            "13": "Take part of the monsters laboratory researches and explore some maps with a group of friends to EXP and drops more !"
+	},
+        "world": {
+            "1": "World & Dungeons",
+            "2": "DARO proposes to extend the world of Rune Midgard and the original experience of Ragnarok Online by adding multiple locations to explore reserved for the most experienced adventurers !",
+            "3": "Whether it's making the most of old maps in the game or putting new ones in the spotlight, every opportunity is right to offer new reasons to set foot on Rune Midgard !",
+            "4": "In the new zones, the monsters are 'elite': They are tougher versions of the well-known monsters from Ragnarok Online, decked out with new strategies and roles !",
+            "5": "Nightmare Dungeons",
+            "6": "These nightmarish dungeons are more difficult instant versions of the original dungeons. Yes, there are a lot !",
+            "7": "North Fields : North of Rune Midgard",
+            "8": "These areas (made up only of unpublished maps) form a new facet of the world to discover: The north of Rune Midgard! The monsters there are identical to those in Runes Midgard South but they are more difficult.",
+            "9": "World Donjons : God's Temples",
+            "10": "These temples made in honor of the deities of Rune Midgard represent the first degree of difficulty inherent in the lands of the north !",
+            "11": "World Donjons : Elemental Donjons",
+            "12": "These dungeons embodied by the primary elements represent the second degree of the difficulty inherent in the lands of the north !",
+            "13": "World Donjons : Ascension to Divinity",
+            "14": "These long and complex dungeons represent the last degree of difficulty offered by the lands of the north !"
+	}
+    },
     "header": {
+        "type": {
+            "1": "News",
+            "2": "Progress",
+            "3": "Configs",
+            "4": "Events",
+            "5": "Features",
+            "6": "New World",
+            "7": "Quests",
+            "8": "Gameplay",
+            "9": "Other",
+            "10": "About Us"
+        },
         "text": {
             "1": "DARO is a custom pre-renewal server for Ragnarok Online.",
             "2": "Our goal is to keep the original gameplay sensations but with new contents !",
@@ -12,10 +254,1175 @@
             "2": "Gives an additional SkillLv% bonus to DEF and MDEF",
             "3": "Gives an additional SkillLv bonus to VIT"
         },
-        "holylight": {
+        "holy_light": {
             "1": "Up to Lv 5 : Each level after the first add 75% to damage (so the formula is (50 + 75 * SkillLv)%) and 0,5 seconds to timecast",
             "2": "Changes on this skill imply it is accessible in the skill tree without a link",
             "3": "A soul linked priest adds +475% damage to base formula (so the skill at level 1 is the same as before)"
+        }, 
+        "cure": {
+            "1": "Up to Lv 5, if an effect is cured by this skill then the target received a small amount of heal (2 * INT * SkillLv) HP and (INT * SkillLv / 20) SP",
+            "2": "If an effect is cured by this skill gives immunity to all common status effects cured by the skill for 2s per SkillLv "
+        },
+        "ruwach": {
+            "1": "Up to Lv 5, Damage formula is now (145 * SkillLv)%",
+            "2": "Each level after the first increase duration by 2s, at Lv 5 the skill has an area of effect increased (+1)"
+        },
+        "pneuma": {
+            "1": "Up to Lv 5, each level after the first increase duration by 1 second"
+        },
+        "resurrection": {
+            "1": "Up to Lv 5 : The fifth level revive target with full HP"
+        },
+        "assumptio": {
+            "1": "For kugan usage : Duration, after skill delay, casting time and SP cost continues to growth until the tenth level"
+        },
+        "sanctuary": {
+            "1": "The heal and damage power of this skill is now equal and calculated with (BaseLevel + INT) * SkillLv * 0,33",
+            "2": "Meditatio now also affects this skill",
+            "3": "Also affect Evil Land which share the same formula"
+        },
+        "kyrie_eleison": {
+            "1": "Kyrie Eleison and Assumptio can be used together"
+        },
+        "slow_poison": {
+            "1": "Up to Lv 5 : The added 5th level increase duration by 10 seconds and SP cost by 2 like other levels",
+            "2": "This skill affect all DoT effect status like : Poison, DPoison, Bleeding, Burning, Toxin"
+        },
+        "magnificat": {
+            "1": "For kugan usage : Each levels after the fifth adds 10% to SP regeneration (up to 250% at level 10)"
+        },
+        "gloria": {
+            "1": "This skill gives 10 LUK + 4 LUK per SkillLv, duration is 30 seconds",
+            "2": "For kugan usage : Each levels after the fifth adds 6 seconds to duration"
+        },
+        "suffragium": {
+            "1": "Up to Lv 5 : Each levels after the third reduce casting time by 5% (up to -55% at level 5)"
+        },
+        "magnus_exorcismus": {
+            "1": "Cast time is set to 1,5 seconds per SkillLv"
+        },
+        "lex_aeterna": {
+            "1": "Up to Lv 5, each level after the first increase the damage augmentation provided by the skill by 5% per Lv"
+        },
+        "recovery": {
+            "1": "Up to Lv 5, if an effect is cured by this skill then the target received a small amount of heal (2 * INT * SkillLv) HP and (INT * SkillLv / 20) SP",
+            "2": "If an effect is cured by this skill gives immunity to all common status effects cured by the skill for 2s per SkillLv",
+            "3": "Works on Stop status"
+        },
+        "clementia": {
+            "1": "Skills modified for kugan usage",
+            "2": "Renamed into Wide Blessing",
+            "3": "Area of effect for this skill is set to 3x3/5x5/7x7/9x9/11x11"
+        },
+        "canto_candidus": {
+            "1": "Skills modified for kugan usage",
+            "2": "Renamed into Wide Celerity",
+            "3": "Area of effect for this skill is set to 3x3/5x5/7x7/9x9/11x11"
+        },
+        "coluceo_heal": {
+            "1": "Skills modified for kugan usage",
+            "2": "Renamed into Wide Heal",
+            "3": "Area of effect for this skill is set to 3x3/5x5/7x7/9x9/11x11"
+        },
+        "dodge": {
+            "1": "This skill gives 1,5 PFLEE per SkillLv"
+        },
+        "chain_combo": {
+            "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"
+        },
+        "chain_crush_combo": {
+            "1": "This skill inflict an effect for 10 seconds [skill-db.yml, duration 1] that decrease DEF and MDEF by 4 per SkillLv"
+        },        
+        "combo_finish": {
+            "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"
+        },               
+        "tiger_knuckle_fist": {
+            "1": "Have a stun effect that can't be prevented or reduced, chances are the same as the stop effect (but the two can happens separatly)",
+            "2": "Stun duration is set to 2,5 seconds (regarless of skill level)"
+        },
+        "ki_translation": {
+            "1": "Up to Lv 5, each levels after the first cost/transfer one more sphere"
+        },
+        "ki_explosion": {
+            "1": "Up to Lv 5, each levels adds overall damages based on one of the target attributes, the augmentation formula is (target Attributes)%",
+            "2": "Lv 1 -> STR, Lv 2 -> VIT, Lv 3 -> AGI, Lv 4 -> DEX, LV 5 -> INT",
+            "3": "No after skill damage but cooldown of 3s and HP drains is 2%",
+            "4": "For kugan usage : Lv > 6 reproduce the same pattern but deals 1/2 more damage and have a cooldown of 6s and HP drains is 4%"
+        },
+        "dangerous_soul_collect": {
+            "1": "Up to Lv 5 : Each levels reduce cast time by 0,5s but increase SP consumption by 10"
+        },
+        "asura_strike": {
+            "1": "The effect that prevent SP recovery do not last 5 minutes but 15 seconds, also reducing maximum SP by 50% during these 15 seconds"
+        },
+        "arrow_shower": {
+            "1": "Those skills have half more chance to apply status effect coming from arrows and cards"
+        },
+        "charge_arrow": {
+            "1": "Up to Lv 5, each levels after the first adds 2 to the pushback distance but the skill recieved as much as cooldown (in seconds)"
+        },        
+        "arrow_making": {
+            "1": "Up to Lv 5, each level after the first reduce SP cost by 1 and increase arrow production by 10%",
+            "2": "Usable even if user is in overweight state"
+        },
+        "beast_strafing": {
+            "1": "Renamed into Hunt Strafing",
+            "2": "Up to Lv 5, this skill actives 'Hunt Mark' effect that increase user's damage on the same targets, it can be used on all kind of targets",
+            "3": "Damage are sets to (100 + STR + 20 * SkillLv)% and 'Hunt Mark' effect duration is 4 seconds + 4 seconds per SkillLv",
+            "4": "'Hunt Mark' can be stack 5 times, each new stack refresh status duration, but if a new target is hit then the stack count is reset",
+            "5": "Each stacks of 'Hunt Mark' damage increase effect is 2% + 0,2% per SkillLv and each point in STR adds 0,02%",
+            "6": "A hunter under soul link effect retrieve the old skill functionality (with no 'Hunt Mark' and race restrictions)",
+            "7": "Changes on this skill imply it is accessible in the skill tree without a Hunter Spirit"
+        },        
+        "detecting": {
+            "1": "Up to Lv 5 : The added 5th level increase area of effect to 11x11 and range to 11 cells" 
+        },    
+        "phantasmic_arrow": {
+            "1": "Up to Lv 5, each levels after the first increase damage by 100% but add 0,15 seconds (not reduce by DEX) cast time, 2 seconds cooldown and 4 to SP cost",
+            "2": "Each INT points below 50 add 1% to skill overall damage, points after 50 gives only 0,5%",
+            "3": "Have a stop effect, stop duration is set to 0,5s per SkillLv"
+        },            
+        "steel_crow": {
+            "1": "Add 5*SkillLv% more damage on monsters with BlitzBeat",
+            "2": "Add 2*SkillLv% more damage on monsters with Falcon Assault",
+            "3": "Add 2*SkillLv% more damage on critical with BlitzBeat or Falcon Assault"
+        },        
+        "wind_walk": {
+            "1": "Flee bonus is 1 per SkillLv"
+        },             
+        "remove_trap": {
+            "1": "Up to Lv 5 : Each levels after the first add 1 to range and increase SP cost by 2"
+        },            
+        "spring_trap": {
+            "1": " For kugan usage : Each levels after the fifth adds 1 to range"
+        },        
+        "land_mine": {
+            "1": "Damage formula is (SkillLv * DEX * (100 + INT) * 0,002)",
+            "2": "Add damage based on actual HP of target, up to 25% at SkillLv 5, capped at twice the base damage",
+            "3": "Add 1/3 base damage on monster (this can affect damages based on actual HP)"
+        },               
+        "claymore_trap": {
+            "1": "Damage formula is (SkillLv * DEX * (100 + INT) * 0,0025)",
+            "2": "Add damage based on actual HP of target, up to 30% at SkillLv 5, capped at twice the base damage",
+            "3": "Add 1/3 base damage on monster (this can affect damages based on actual HP)"
+        },
+        "blast_mine": {
+            "1": "Damage formula is (SkillLv * DEX * (100 + INT) * 0,003)",
+            "2": "Add damage based on actual HP of target, up to 35% at SkillLv 5, capped at twice the base damage",
+            "3": "Add 1/3 base damage on monsters (this can affect damages based on actual HP)"
+        },
+        "adaptation_to_circumstances": {
+            "1": "Up to Lv 5 : Each level after the first reduce the cooldown set on this skill after a dancing is performed by 0,5 seconds (which starts at 5s at level 1)",
+            "2": "Up to Lv 5 : Each level after the first reduce the after skill delay by 0,3 seconds (which starts at 3s at level 1)"
+        },
+        "encore": {
+            "1": "Up to Lv 5 : Each level after the first reduce even more the cost of the previous song by 15%, for a minimum of 0 (do not reduce the 1 SP cost for Encore)"
+        },
+        "pang_voice": {
+            "1": "Up to Lv 5 : The success formula is 45 + 5*SkillLv %"
+        },
+        "a_whistle": {
+            "1": "Also grants a chance to totally avoid an attack of any kind, the odds are based on the perfect flee bonus"
+        },        
+        "apple_of_idun": {
+            "1": "HP regen is (30+7*Skill)% of user's (BaseLevel + VIT + Musical Lesson * 5)",
+            "2": "Every 1 point in INT increase the HP regen by 1%",
+            "3": "Not affected by bPerformBonusRate but affected by any skill healpower bonus normally affecting Apple of Idun"
+        },
+        "a_poem_of_bragi": {
+            "1": "Cast Delay reduction formulas are now the same as Casting Time reduction's formulas"
+        },
+        "slow_grace": {
+            "1": "On monsters the malus to ASPD is applied as an increased delay between to usage of skills"
+        },
+        "wink_of_charm": {
+            "1": "Up to Lv 5",
+            "2": "The success formula on players is 45 + 5*SkillLv %",
+            "3": "The success formula on monsters is 65 + 5*SkillLv %",
+            "4": "This skill works on all types of monsters but with a 40% penalty rate on other races than Dhuman, Angels and Demons",
+            "5": "This skill works on targets with a lower level than the user BUT starting at level 2 this skill factor a bonus of 10 * SkillLv in favor of the user for that rule",
+            "6": "Note : SP cost is 20 and increased by 2 per SkillLv after the first"
+        },
+        "ugly_dance": {
+            "1": "On players : SP damage is (40+10*Skill)% of user's (DEX + AGI + Musical Lesson * 5)",
+            "2": "On monsters : Adds ((DEX + AGI) * LV * 0,5) damage on monsters (but not on players which have already SP damages)",
+            "3": "Dancing Lesson adds 10% per SkillLv to Hip Shaker damages",
+            "4": "Twice damage on monsters (and like other special attacks can be critical)"
+        },
+        "humming": {
+            "1": "Also grants a great chance to hit whatever the target's flee, the odds are based on the hit bonus"
+        },
+        "marionette_control": {
+            "1": "Up to Lv 5, maximum attributes is now 95 + 5*SkillLv",
+            "2": "Each level increase all attributes bonus by 4",
+            "3": "Maximum HP of the user are reduced by 20% (their is no fix HP reduction anymore)",
+            "4": "If this skill is learned at level 5 the user can now use skills while using this skill but casting time, after skill delay and SP cost are doubled",
+            "5": "For kugan usage : Each level after the first decrease skills malus by 20%, so at level 10 their is no penalities left (only attributes cut by half from the original effect)",
+            "6": "For kugan usage : Also the range of this skill is increase by 1 per level after the fifth (for a maximum of 12 cells at level 10)"
+        },
+        "throw_arrow": {
+            "1": "Those skills have triple chance to apply status effect coming from arrows and cards",
+            "2": "Duration of those status effect is reduce by half"
+        },
+        "musical_strike": {
+            "1": "Those skills have triple chance to apply status effect coming from arrows and cards",
+            "2": "Duration of those status effect is reduce by half"
+        },                                                                                                                         
+        "dissonance": {
+            "1": "Damage are ((DEX + INT) * LV * 0,5)",
+            "2": "Musical Lesson add 10% per SkillLv to Dissonance damages",
+            "3": "Twice damage on monsters"
+        },
+        "tarot_card_of_fate": {
+            "1": "Each point in LUK of user/target add/remove 0,05% success per skill level",
+            "2": "Success per skill level can't be under 8%",
+            "3": "Can be critical for greater effects (damages, debuff %, etc), which is only based on Critical value and don't take account cards that give CRIT vs race, etc",
+            "4": "1 more % to get Wheel of Fortune, 2 more % to get Devil, 3 less % to get Sun",
+            "5": "Damage formula is : (HIT + INT) * 10, get the lowest between DEF/MDEF into account, a critical add 50% and ignore DEF/MDEF",
+            "6": "Effects are now :",
+            "7": "THE FOOL - Reduce SP to 0 and 100% damage",
+            "8": "THE MAGICIAN - matk reduce by 1/2 (2/3 critical) and 50% damage",
+            "9": "THE HIGH PRIESTESS - all buffs removed and 50% damage",
+            "10": "THE CHARIOT - 200% damage, random armor destroyed",
+            "11": "STRENGTH - atk reduce by 1/2 (2/3 critical) and 50% damage",
+            "12": "THE LOVERS - 150% heal and 50% damage",
+            "13": "WHEEL OF FORTUNE - random 2 other effects (3 effects if critical)",
+            "14": "THE HANGED MAN - stop, freeze or stoned (100% chances, 150% on critical)",
+            "15": "DEATH - curse, coma and poison (100% chances, 150% on critical) and 100% damage (if target is not affected by coma)",
+            "16": "TEMPERANCE - confusion (100% chances, 150% on critical) and 150% damage",
+            "17": "THE DEVIL - 400% damage, atk and matk halved (or 1/3 if critical), cursed (100% chances, 150% on critical)",
+            "18": "THE TOWER - 300% damage",
+            "19": "THE STAR - stun (100% chances, 150% on critical) and 100% damage",
+            "20": "THE SUN - atk, matk, hit, flee and def reduced by 20% (30% if critical) (maybe mdef one day), 50% damage"
+        },
+        "ensemble_skill_longing_for_freedom": {
+            "1": "Grants a passive 2*SkillLv% walking speed bonus when performing"
+        },                 
+        "ensemble_skill_lullaby": {
+            "1": "Up to Lv 5, each level after the first increase odds to inflict sleep by 10%, so formula is now : (5 + INT/3 + 10*SkillLv)%"
+        },
+        "ensemble_skill_a_drum_on_the_battlefield": {
+            "1": "Grants 75+25*SkillLv ATK and 4+2*SkillLv DEF"
+        },
+        "ensemble_skill_into_the_abyss": {
+            "1": "Up to Lv 5, also grants 75+25*SkillLv MATK and 4+2*SkillLv MDEF"
+        },
+        "ensemble_skill_loki_s_weil": {
+            "1": "Up to Lv 5, also reduce Critical by 10*SkillLv"
+        },
+        "ensemble_skill_eternal_chaos": {
+            "1": "Up to Lv 5, also reduce MDEF2 to 0 and reduce DEF and MDEF by (10+5*SkillLv)%"
+        },
+        "ensemble_skill_invulnerable_siegfried": {
+            "1": "20% of the elemental resistance bonus is also applyed to neutral resistance"
+        },
+        "ensemble_skill_mr_kim_a_rich_man": {
+            "1": "Bonus formula is now (20+20*SkillLv)% and it's also applyed to zeny obtains on monsters kill"
+        },
+        "ensemble_skill_the_ring_of_nibelungen": {
+            "1": "No weapon level restrictions or damage bonus but an all stats bonus of 2*SkillLv instead"
+        },
+        "ensemble_skill_moonlit_water_mill": {
+            "1": "Grants a passive 2*SkillLv % bonus to flee rate which is doubled if skill is active",
+            "2": "Grants to users 10*SkillLv% damage reduction within the effect of this skills",
+            "3": "For kugan usage : Starting at level 6+ damage reduction is increased by only 3% per SkillLv"
+        },
+        "fire_ball": {
+            "1": "Damage formula is now (100 + 15 * SkillLv)%",
+            "2": "Cast time is set to 0,5 seconds + 0,05 seconds per SkillLv",
+            "3": "After skill delay is set to 0,5 seconds + 0,05 seconds per SkillLv"
+        },
+        "sight": {
+            "1": "Up to Lv 5, each levels after the first increase duration by 2s, at Lv 5 the skills has an area of effects increased (+1)",
+            "2": "Each Lv adds 0,5s cooldown to Hiding and Clocking skills of targets (don't work on monster)"
+        },        
+        "energy_coat": {
+            "1": "Up to Lv 5, each levels reduce damage taken and increase SP consumption",
+            "2": "Actual reduction formula is : 5% + 0,3% per SP% left (maximum 35%), each SkillLv after the first adds 8% to global reduction (up to 35 * 1.32 = 46%)",
+            "3": "SP consumption is 1% + 0.025% per every SP% left (maximum 3,5%), each SkillLv after the first adds 12% to SP consumption (up to 3,5 * 1.48 = 5,1%)"
+        },
+        "meteor_storm": {
+            "1": "Casting time is set to 1,5 seconds per SkillLv"
+        },
+        "napalm_beat": {
+            "1": "Damage formula is now (100 + 15 * SkillLv)%",
+            "2": "Cast time is set to 0,5 seconds + 0,05 seconds per SkillLv",
+            "3": "After skill delay is set to 0,5 seconds + 0,05 seconds per SkillLv",
+            "4": "SP cost is set to 25 no matter the level",
+            "5": "Hits in a 5x5 area",
+            "6": "This skill is basically a Fire Ball but with ghost property"
+        },
+        "sight_blaster": {
+            "1": "Up to Lv 5, Damage formula is now (100 * SkillLv)%",
+            "2": "Cast time is set to 0,7s per Lv, Cooldown is set to 1s per Lv"
+        },
+        "earth_spike": {
+            "1": "Up to Lv 10, cast time and After skill delay are based on other bolts"
+        },
+        "fire_pillar": {
+            "1": "Casting time is set to 0,35s per SkillLv",
+            "2": "For players Damage are doubled, for monsters damage stays the same as before",
+            "3": "For kugan usage : Level after the tenth do not increase hits (but damage are increased none the less) and hits in 5x5 (instead of 3x3) but SP and gem cost are doubled"
+        },
+        "frost_nova": {
+            "1": "Chance to frost targets are 30 + 7*SkillLv%",
+            "2": "For Kugan usage :",
+            "3": "Level after the tenth do not reduce SP cost but doubles the level 10 cost at level 11+ and triples the level 10 ét level 16+ cost instead",
+            "4": "Level after the tenth casting time is kept at 0,6 seconds but their is a CD of 5 seconds and the area is set to 5x5",
+            "5": "Level after the 15th casting time is kept at 0,6 seconds but their is a CD of 10 seconds and the area is set to 7x7"
+        },
+        "lord_of_vermillion": {
+            "1": "Cast time is set to 5 seconds + 0,5s per SkillLv"
+        },         
+        "heaven_s_drive": {
+            "1": "Up to Lv 10, level's after the fifth works like this : Effective duration of the skill is set to 1s per Lv",
+            "2": "Lv 6 and above hits for 200% of MATK, targets in active area are hits every 0,5s after the initial impact",
+            "3": "Lv 6 and above have an after skill delay of 1s per Lv after the fifth"
+        },
+        "sightrasher": {
+            "1": "Odd levels have more pushbacks cells capacity (4 + SkillLv)",
+            "2": "Even levels have more damages capacity (hit 3 times)",
+            "3": "After skill delay is set to 0,3s per Lv, Cooldown is set to 2 + 1s for each couple of levels (2/2/3/3/4/4/5/5/6/6)"
+        },        
+        "ganbantein": {
+            "1": "Up to Lv 5, each level affect the size of the area (3x3/5x5/7x7/9x9/11x11), the SP cost (40/45/50/55/60) and cast time (2/2,5/3/3,5/4s)"
+        },
+        "gravitational_field": {
+            "1": "Damage formula is (BaseLv + INT * 2) * (1 + SkillLv)",
+            "2": "Add damage based on actual HP of target, up to 10% at SkillLv 5, capped at 3x the base damage",
+            "3": "ASPD reduction is (10 + 5 * SkillLv) %",
+            "4": "Add 1/3 base damage on monsters (this can affect damages based on actual HP)"
+        },
+        "magic_crasher": {
+            "1": "Up to Lv 5, hit SkillLv time for 100% MATK per hit, add 'Break Shoulder' status. Success rate is (50 + 10 * Lv)% for 20s"
+        },
+        "soul_burn": {
+            "1": "Chance to success is now : 20 + 10 * SkillLv + 100% of the LVL difference between user and target + 25% of the LUK difference between user and target",
+            "2": "Soul Burn inflict damage on HP at all level, not just the fifth, but damage are now based on : 40% + 10% * SkillLv of the target actual SP",
+            "3": "Damage are increased by 1% per INT point of the user"
+        },
+        "sense": {
+            "1": "This skill have now casting time set to 1 second, with no reduction from DEX",
+            "2": "Up to Lv 5 : Now the user recieve an effect for 20 seconds which grants additional damage and resistance against target's family (don't works on players)",
+            "3": "Additional damage and resistance is X% of (5+SkillLv)% where X is INT value (ie : Level 5 Sense with 150 INT grants a bonus of +15%)",
+            "4": "At level 2 or more the target's informations are not displayed to the user or group members (it would be annoying as hell)"
+        },
+        "cast_cancel": {
+            "1": "SP kept formula is (20 * SkillLv)%",
+            "2": "This skill have no SP requirements"
+        },
+        "auto_spell": {
+            "1": "Overall autocast chance is set to 15% and each DEX points add 0,1%",
+            "2": "A spell can be cast at any level from 1 to the max, each levels have the same chance to occurred",
+            "3": "For kugan usage : Levels 10+ cast Soul Strike with damage greatly increased (dealing in fact 500% (Soul Strike Lv 10) +300% per SkillLv over the tenth)",
+            "4": "A soul linked sage always cast the level max of the skill",
+            "5": "Each levels change the skill to select a different Spell :",
+            "6": "Level 1 : Soul Strike, Up to level 5",
+            "7": "Level 2 : Fire Bolt, Up to level 5",
+            "8": "Level 3 : Cold Bolt, Up to level 5",
+            "9": "Level 4 : Lightning Bolt, Up to level 5",
+            "10": "Level 5 : Earth Strike, Up to level 5",
+            "11": "Level 6 : Soul Strike, Up to level 10",
+            "12": "Level 7 : Fire Bolt, Up to level 10",
+            "13": "Level 8 : Cold Bolt, Up to level 10",
+            "14": "Level 9 : Lightning Bolt, Up to level 10",
+            "15": "Level 10 : Earth Strike, Up to level 10"
+        },
+        "wall_of_fog": {
+            "1": "Up to Lv 5, each level after the 1st add 2,5s to duration, blind status is more effective (75 + 25 *SkillLv)",
+            "2": "Each level after the 1st add 3% to missing chances for all offensive skills",
+            "3": "At 5 skill got one more instance at same time"
+        },   
+        "mind_breaker": {
+            "1": "Decrease MATK by 2% per Lv instead of improving it",
+            "2": "No status immune from boss and skill have 20s cooldown, a duration of 10s and have (50 + 10 * SkillLv)% of success"
+        },
+        "spider_web": {
+            "1": "Up to Lv 5, each level after the 1st add 1s to duration and 10% deals by fire damage",
+            "2": "At Lv 3 and 5 skill got one more instance at same time"
+        },        
+        "double_casting": {
+            "1": "This skill works with Earth Pike (like other bolts)",
+            "2": "For kugan usage : Lv 6+ add, for each level above, 15s duration and 4% to success"
+        },
+        "memorize": {
+            "1": "Up to Lv 5, add 1 more use per SkillLv (up to 9 uses at Lv 5)"
+        },
+        "spell_breaker": {
+            "1": "Possible on boss at 5+5Nv%, HP lose (on player, in case of success) is 0,5Nv%, Skill break with Spellbreak get a CD of 0,5s per Nv (on player)"
+        },       
+        "mammonite": {
+            "1": "Zeny cost is reduce by 10%",
+            "2": "Unfair trick do not affect this skill anymore (the effects are already given)"
+        },
+        "loud_exclamation": {
+            "1": "Up to Lv 5, each levels after the fist gives +10 STR but for a short period of time (6/9/12/15s) and with a cooldown (60s)",
+            "2": "For kugan usage : Each levels after the fifth keeps the 15 seconds duration but reduce the cooldown by 9 seconds (for a minimum of 15s)"
+        },        
+        "greed": {
+            "1": "Up to Lv 5 : Each level increase the area like so : 5x5/7x7/9x9/11x11/13x13",
+            "2": "Passively increase zeny obtains by killing monster by 5% per SkillLv",
+            "3": "No map restrictions (so it is now allowed in towns)"
+        },        
+        "skin_tempering": {
+            "1": "Grants SkillLv% resistance to neutral property damage and 2*SkillLv% to fire, water, earth and wind property damage"
+        },
+        "hammer_fall": {
+            "1": "This skill can be use with any One/Two-handed Axe or Mace, not with dagger, swords, etc...",
+            "2": "For kugan usage : Level after the fifth have improved chance to cause stun status but for a duration of 3,5 seconds, a cooldown of 28/24/20/16/12 seconds and a casting time of 1,4/1,3/1,2/1,1/1 second (reduced by DEX)",
+            "3": "Chance to stun are : 30/40/50/60/70/150/200/250/300/350%"
+        },
+        "maximize_power": {
+            "1": "For kugan usage : At level 6+ weapon damage ranged from 100% (as minimum damage) to 100+X% (as maximum damage)",
+            "2": "X stands (SkillLv-5)*3",
+            "3": "SP cost is increased by 1 for every level above 5 and still ticks every 5 seconds (like it does at level 5) (ie : at level 10 this skill consume 6 SP every 5 seconds)"
+        },
+        "unfair_trick": {
+            "1": "Up to Lv 5, this skill no longer affect Zeny cost of Mammonite (which already have the effect integrated)",
+            "2": "For kugan usage : Each levels after the fifth adds half the usual bonus damage (and increase the maximum bonus reachable). The maximum bonus damage reachable is equal to SkillLv * 5%",
+            "3": "All physical and magical skills deals more damages on a target affected by common status effects :",
+            "4": "Those common status effects adds 2% damage per SkillLv : Stun, Splasher, Decrease Agi, Ankle Snare",
+            "5": "Those common status effects adds 3% damage per SkillLv : Silence, Blind, Confusion, Stone, Curse, Poison, Bleeding, Burning, Hallucination, Toxin",
+            "6": "Those common status effects adds 4% damage per SkillLv : Freeze"
+        },
+        "hilt_binding": {
+            "1": "Up to Lv 5, each levels adds 5% to hit rate (non flat bonus). For example : If considering user's HIT and target's FLEE there is a 50% success to hit, with this skill at level 5 it would be 62,5% instead",
+            "3": "Each level of this skill adds 1% to minimum AND maximum hit rate (which are respectivilty set to 5% and 95% by default)"
+        },
+        "adrenaline": {
+            "1": "Gives (3 * SkillLv)% ASPD, Duration is fixed at 300s for all SkillLv",
+            "2": "Axe and Mace Quicken works on ALL axes and maces (one handed or two handed)"
+        },
+        "throw_tomahawk": {
+            "1": "Renamed into Throw Axe",
+            "2": "Needs to be equipped with an one handed axe or two handed axe, have an SP cost set to 10, range is set to 5",
+            "3": "Hits a total of SkillLv + 2 times, have an after skill delay of 1s and a cooldown of 5 seconds "
+        },
+        "bioethics": {
+            "1": "Up to Lv 5 : Each levels in this skill increase intimacy gains and reduce intimacy lost by 4%"
+        },
+        "homunculus_resurrection": {
+            "1": "Fix SP cost to 60 for all levels and have a cooldown of 20 seconds",
+            "2": "For kugan usage : At level 6+ this skill grants some buff to the revived Homunculus for 60 seconds",
+            "3": "Buffs are : All attributes +4*(SkillLv-5), maximum HP +4*(SkillLv-5)% and Kyrie Eleison at level 2*(SkillLv-5)"
+        },        
+        "plant_cultivation": {
+            "1": "Up to Lv 5, each levels increase chance of success by 5%",
+            "2": "Used at level 3 this skills grants 'Bramble Armor' for 180 seconds, which grants 1 MDEF/DEF every 15 points in INT, cost 70 SP",
+            "3": "Used at level 4 this skills grants 'Thorn Armor' for 180 seconds, which grants 1% reflection to physical damage every 4 points in INT, cost 70 SP",
+            "4": "Used at level 5 this skills grants 'Flower Armor' for 180 seconds, which grants 10 maximum HP and 1 maximum SP every 1 point in INT, cost 70 SP",
+            "5": "Armor effects replace each other, INT value is based on its value when the skill is cast",
+            "6": "For kugan usage : Each level after the fifth increase effectiveness of armor effects by 7%, SP cost is not increased"
+        },
+        "cannibalize": {
+            "1": "Renamed 'Summon Flora'",
+            "2": "Require 1 Plant Bottle and 20 SP belove the level 6 and 2 Plants Bottle and SkillLv * 5 SP past level 5",
+            "3": "Skill duration is same as before but all levels > 5 are set to 60 seconds",
+            "4": "Up to Lv 10, each new levels can call a new kind of plant :",
+            "5": "Level 6 : Summon a Willow",
+            "6": "Level 7 : Summon a Poison Spore",
+            "7": "Level 8 : Summon a Wooden Golem",
+            "8": "Level 9 : Summon a Live Peach Tree",
+            "9": "Level 10 : Summon a Musciplar",  
+            "10": "For kugan usage : Up to Lv 20, each new level can summon a new kind of plant :",
+            "11": "Level 11 : Nepenthes",
+            "12": "Level 12 : Wood Goblin",
+            "13": "Level 13 : Elder willow",
+            "14": "Level 14 : Stone Shooter",
+            "15": "Level 15 : Pinguicula",
+            "16": "Level 16 : Dryad",
+            "17": "Level 17 : Drosera",
+            "18": "Level 18 : Les",
+            "19": "Level 19 : Ancient Tree",
+            "20": "Level 20 : Mavka",         
+            "21": "Summons' statistics :",
+            "22": "Summons keep DEF, MDEF, attack range, to some extends walk speed, IA and skills from original monster",
+            "23": "Summons don't keep ATK, HP, ASPD, etc... from original monster, they derived from their new attributes :",
+            "24": "Attack :",
+            "25": "Min ATK formula is (SkillLv * 10 + MobLvl * 2) + 2*STR% (instead of STR base effect)",
+            "26": "Max ATK formula is (minATK * (1 + DEX *0,02) / 100)",
+            "27": "Attack Speed :",
+            "28": "Delay between to attacks is 2000 (ms) / (1 + AGI * 0,02)",
+            "29": "Health Points :",
+            "30": "Maximum HP formula is (SkillLv * 200 + md->db->lv² / 2) + 2*VIT%",
+            "31": "Critical rate:",
+            "32": "Critical formula is (LUK * 0,2)% and Pefect Flee formula is (LUK / 10)%",
+            "33": "Some skills give bonus or malus to summons :",
+            "34": "Chemical Protections affect DEF, MDEF, PFlee and Critical Rate positively",
+            "35": "Aid Potion & Aid Condensed Potion affect summons's level positively while Acid Demonstration, Acid Terror & Fire Demonstration affect it negatively",
+            "36": "Bioethics affects all summons' attributes positively",
+            "37": "Max level of a summon is 95",
+            "38": "An internal level is calculated considering those datas, called iLevel",
+            "39": "Internal level may reduce the summon's level",
+            "40": "Summon's attributes depends on their class and their level",
+            "41": "There is a master bonus, affecting attribute as a percent bonus, depending on the user's INT"
+        },
+        "sphere_mine": {
+            "1": "Summons keep IA and attributes but have HP depending on SkillLv, user's INT and some other skills",
+            "2": "HP formula is : (user's INT² * (10 + SkillLv)) /30",
+            "3": "Skills that increase HP if learned :",
+            "4": "Cannibalize - Renamed 'Summon Flora' +1% per level",
+            "5": "Full Chemical Protection +2% per level",
+            "6": "Potion Pitcher +2% per level",
+            "7": "Slim Potion Pitcher +1% per level",
+            "8": "Bioethics +2% per level",
+            "9": "Some other skills give extra bonus to summons :",
+            "10": "Chemical Protection Helm : Gives 3 MDEF per Level",
+            "11": "Chemical Protection Shield : Gives 3 DEF per Level",
+            "12": "Chemical Protection Armor : Gives 2 perfect flee per Level",
+            "13": "Chemical Protection Weapon : Gives 3 critical rate per Level",
+            "14": "Bioethics : Increase all attributes by 3% per level",
+            "15": "A critical 'Self Destruction' only deals 50% more damage since the skill is special and already ignore DEF",            
+            "16": "For kugan usage : Each level from 6 to 10 included, add a bonus of 4 in CRI, PFLEE, DEF and MDEF of the summons"          
+        },
+        "demonstration": {
+            "1": "Up to Lv 10",
+            "2": "Damage formula is changed for (150 + SkillLv * 15)%, hit every 0,5s, weapon break formula is (5 + SkillLv * 2)%",
+            "3": "Each Lv in Learning Potion add 2% to the skill overall damage",
+            "4": "Each INT points below 50 add 1% to skill overall damage, points after 50 gives only 0,5%",
+            "5": "Lv 8 require no Bottle Grenade, SP cost is doubled : Similar to Lv 0",
+            "6": "Lv 9 require 2 Bottle Grenade, SP cost is doubled, Cooldown 5s : Damage as Lv 5 (visually hit twice), break at double rate",
+            "7": "Lv 10 require 2 Bottle Grenade, SP cost is doubled, Cooldown 5s : Damage as 2x Lv 5 (visually hit twice)"
+        },
+        "acid_terror": {
+            "1": "Up to Lv 10",
+            "2": "Damage formula is changed for (200 + SkillLv * 20)%, armor/shield/helm break and bleeding formula is (5 + SkillLv * 2)%",
+            "3": "Each Lv in Learning Potion add 2% to the skill overall damage",
+            "4": "Each INT points below 50 add 1% to skill overall damage, points after 50 gives only 0,5%",
+            "5": "Lv 8 require no Acid Bottle, SP cost is doubled : Damage similar to Lv 0, break/status still depending on formula",
+            "6": "Lv 9 require 2 Acid Bottle, SP cost is doubled, Cooldown 5s : Damage as Lv 5 (visually hit twice), break/status at double rate",
+            "7": "Lv 10 require 2 Acid Bottle, SP cost is doubled, Cooldown 5s : Damage as 2x Lv 5 (visually hit twice)"
+        },
+        "acid_demonstration": {
+            "1": "Damage modified in order to be better on VIT 95+ and lesser on VIT 95-",
+            "2": "Formula is now (7 * tVIT² * uINT²) / (1150 * (tVIT + uINT)) per hit (which is none the less too much...)",
+            "3": "This skill considers the lowest between DEF and MDEF in order to calculate damage"
+        },        
+        "chemical_protection_weapon": {
+            "1": "Bonus effect : Increase all kind of damage by 2% + 2% per SkillLv",
+            "2": "When multiple protections are actives, bonus effects from Chemical Protections are divided (Reduce by 1/3 if 2 are actives, 2/3 if 3, no active bonus if 4 protections)"
+        },
+        "chemical_protection_shield": {
+            "1": "Bonus effect : Reduce damage recieved by 2% + 2% per SkillLv",
+            "2": "When multiple protections are actives, bonus effects from Chemical Protections are divided (Reduce by 1/3 if 2 are actives, 2/3 if 3, no active bonus if 4 protections)" 
+        },        
+        "chemical_protection_helm": {
+            "1": "Bonus effect : Increase status rate and duration inflicted by 4% + 4% per SkillLv",
+            "2": "When multiple protections are actives, bonus effects from Chemical Protections are divided (Reduce by 1/3 if 2 are actives, 2/3 if 3, no active bonus if 4 protections)"
+        },
+        "chemical_protection_armor": {
+            "1": "Bonus effect : Reduce status rate and duration recieved by 4% + 4% per SkillLv",
+            "2": "When multiple protections are actives, bonus effects from Chemical Protections are divided (Reduce by 1/3 if 2 are actives, 2/3 if 3, no active bonus if 4 protections)" 
+        },
+        "fatal_blow": {
+            "1": "Up to Lv 5, this skill no longer affect Bash (which already have those effects integrated)",
+            "2": "Each level of this skill adds 1% chance to do a critical physical, magical or misc skill attacks",
+            "3": "Each level of this skill adds 1% damages to physical, magical or misc critical skill attacks",
+            "4": "Each level of this skill adds a flat 3% to hit rate for critical physical skills attacks",
+            "5": "Each level of this skill adds 2% to defense penetration for critical physical or magical skill attacks"
+        },
+        "moving_hp_recovery": {
+            "1": "Up to Lv 5, each level after the 1st accelerate the heals",
+            "2": "At Lv 1 the skill heals every 12s when walking, at Lv 5 the skill heals every 3s instead (exactly like when sitting)"
+        },        
+        "auto_berserk": {
+            "1": "Up to Lv 5, each level after the 1st increase Provoke level received when activated (meaning +3% ATK and -5% DEF2)"
+        },
+        "bash": {
+            "1": "SP cost is SkillLv + 5",
+            "2": "The skill can stun the target with 2,5% chance per SkillLv",
+            "3": "Fatal Blow do not affect this skills like before (note : Stun duration was set into Fatal Blow skill, it have to be replaced into Bash skill)"
+        },
+        "endure": {
+            "1": "Add 1 DEF per SkillLv",
+            "2": "This skill can be used in PVP/WOE"
+        },            
+        "provoke": {
+            "1": "If not given by autoberserk, Decrease ATK by 1% per Lv instead of improving it, decrease DEF2 by 6% per Lv",
+            "2": "No changes if Provoke effects are given by autoberserk",
+            "3": "No status immune from boss and skill have 20s cooldown, a duration of 10s and have (70 + 3 * SkillLv)% of success"            
+        },
+        "spear_boomerang": {
+            "1": "Those skills have double chance to apply status effect coming from arrows and cards",
+            "2": "Duration of those status effect is reduce by a third",
+            "3": "Skill delay set to 0,7 seconds and SP cost to 13",
+            "4": "Damage formula is now (175 + 35*SkillLv)%",
+            "5": "Under Knight Spirit this skill ignores flee and its damages are increased by half",
+            "6": "For kugan usage : Each levels after the fifth adds 2 cells to range but have a cooldown set to 5 seconds"
+        },
+        "bowling_bash": {
+            "1": "No gutter lines, that means the usual bug where monsters take only one hit is solved. The second hit deal damages in a 5x5 area around the caster",
+            "2": "After the pushback effects only the targets within the second area zone is hit again, so it is better to fight enemies near a wall or immune to pushbacks"
+        },
+        "charge_attack": {
+            "1": "Up to Lv 5, each level increase damages",
+            "2": "Damage increase is (30 + SkillLv * 5)% every 1 square distance, maximum 12 squares"
+        },
+        "berserk": {
+            "1": "Up to Lv 5, each level after the 1st add 5% to bonus damage and 10% to bonus max HP",
+            "2": "Frenzy ends if HP fall below 2 * Lv% of Max HP"
+        },
+        "brandish_spear": {
+            "1": "While casting this skill the user DEF is increased to 133% instead of being reduced by 1/3"
+        },
+        "one_hand_quicken": {
+            "1": "Up to Lv 10, similar to 2HQuicken Knights have access to it naturally",
+            "2": "Changes on this skill imply it is accessible in the skill tree without 'Knight Spirit'",
+            "3": "Gives (1,5 * SkillLv)% ASPD, Duration is fixed at 300s for all SkillLv",
+            "4": "Under 'Knight Spirit', this skill is accessible at least at lv 1 and gives 30% ASPD regardless of SkillLv",
+            "5": "One Handed Quicken works on ALL 1 handed weapons (Sword, Mace, Dagger, Book, Rod, Whip, etc)"
+        },        
+        "two_hand_quicken": {
+            "1": "Gives (3 * SkillLv)% ASPD, Duration is fixed at 300s for all SkillLv",
+            "2": "Under 'Knight Spirit' effects, this skill adds 5% ASPD"
+        },        
+        "joint_beat": {
+            "1": "Damage (100 + 40 * SkillLv)%, status effect (50 + 5 * SkillLv)%",
+            "2": "BREAK_ANKLE = Movespeed reduced by 50%",
+            "3": "BREAK_WRIST = ASPD reduced by 30%",
+            "4": "BREAK_KNEE = Movespeed and FLEE reduced by 30%",
+            "5": "BREAK_SHOULDER = DEF/MDEF reduce by 15",
+            "6": "BREAK_WAIST = CRI/HIT/ATK reduced by 25%",
+            "7": "BREAK_NECK = DEF/MDEF reduced by 30% (no bleed, no double damage)"
+        },
+        "head_crush": {
+            "1": "Damage (100 + 30 * SkillLv)%, Bleeding (50 + 5 * SkillLv)%, works on all target type"
+        },
+        "parrying": {
+            "1": "Success rate is 20 + 3% per SkillLv",
+            "2": "Parrying fails to activate when Stunned, Frozen, Petrified or Asleep"
+        },
+        "devotion": {
+            "1": "This skill can now target a Crusader if this one does not know the skill Devotion",
+            "2": "This skill now Works on/for monsters",
+            "3": "For kugan usage : Levels after the fifth have an improved duration, range and maximum targets",
+            "4": "On level 6 or higher this skill works on targets under Hellpower effects",
+            "5": "On level 6 or higher when the user get damaged by Devotion a small reduction is reduced (2% par SkillLv after the fifth), this effect only apply to players"
+        },
+        "sacrifice": {
+            "1": "For monster's only : Portion of HP used for sacrifice is capped by the (min) ATK value (SkillLv still increase output damages)"
+        },
+        "faith": {
+            "1": "Maximum HP formula is SkillLv * BaseLv * 2",
+            "2": "Each point in VIT increase this bonus by 0,35%",
+            "3": "Increase dark attribute resistance by 3*SkillLv"
+        },
+        "shield_boomerang": {
+            "1": "For kugan usage : Each levels after the fifth adds 2 cells to range but have a cooldown set to 5 seconds",
+            "2": "Skill delay set to 0,7 seconds and SP cost to 13",
+            "3": "Damage formula is now (175 + 35*SkillLv)%",
+            "4": "Under Crusader Spirit this skill ignores flee and its damages are increased by half"
+        },
+        "auto_guard": {
+            "1": "Auto Guard fails to activate when Stunned, Frozen, Petrified or Asleep",
+            "2": "Formula is modified for linear one, now skill have (3 * SkillLv)% to block a hit"
+        },
+        "shrink": {
+            "1": "Up to Lv 5, every odd level increase pushback distance by 1 (2/3/3/4/4) and success rate by 1% per Autoguard level (6/7/8/9/10)"
+        },        
+        "spear_quicken": {
+            "1": "Gives (3 * SkillLv)% ASPD, Duration is fixed at 300s for all SkillLv"
+        },
+        "pressure": {
+            "1": "Damage formula is (SP * (25 + 25 * SkillLv) / 100)",
+            "2": "Twice damage on monsters"
+        },
+        "gospel": {
+            "1": "Damage are based on the BaseLv of user",
+            "2": "Twice damage on monsters"
+        },     
+        "steal": {
+            "1": "Additionally to the stealing item effect the user steal a portion (10%) of target's attributes",
+            "2": "There is 100% chance to steal attributes which is reduced by any cell between the user and the target (mainly for autocast users with long range weapons)",
+            "3": "Target's stolen attributes is reduced by 10% (for 30 seconds)",
+            "4": "User's stolen attributes is increase by the amount stolen to skill's target (for 30 seconds)",
+            "5": "Each time the skill is used previous effects are terminated",
+            "6": "SkillLv from 6 to 10 included are unlock thanks to the kugan system",
+            "7": "The stolen attribute depends on the SkillLv :",
+            "8": "Lv 1 : VIT / Lv 2 : AGI / Lv 3 : INT / Lv 4 : STR / Lv 5 : DEX",
+            "9": "Lv 6 : VIT & LUK / Lv 7 : STR & DEX / Lv 8 : INT & DEX / Lv 9 : AGI & DEX / Lv 10 : 10% of Target's level on all attributes"
+        },
+        "detoxify": {
+            "1": "Up to Lv 5, if an effect is cured by this skill then the target received a small amount of heal (2 * INT * SkillLv) HP and (INT * SkillLv / 20) SP",
+            "2": "Works on all DoT status : Poison, DPoison, Bleeding, Burning, Toxin",
+            "3": "Works on Venom Splasher",
+            "4": "If an effect is cured by this skill gives immunity to all common status effects cured by the skill for 2s per SkillLv"
+        },        
+        "back_sliding": {
+            "1": "Up to Lv 5, each level add 1 to distance (pushback 7/8/9/10/11), add 2 to SP cost (7/9/11/13/15) and add Cooldown (0/0,25/0,5/0,75/1s)",
+            "2": "This skill can be used in PVP/WOE"
+        },
+        "sprinkle_sand": {
+            "1": "Up to Lv 5, chance to apply blind is 30 + 10 * SkillLv, cooldown 5 seconds + 1 per Lv",
+            "2": "Damage formula is (100 + 30 * SkillLv)% of ATK"
+        },
+        "throw_stone": {
+            "1": "Up to Lv 5, chance to apply blind is 20 + 8 * SkillLv, Cooldown 5 seconds + 1 per Lv",
+            "2": "Damage formula is (DEX + STR) * SkillLv",
+            "3": "Deal 50% more base damage on monsters "
+        },
+        "create_deadly_poison": {
+            "1": "Up to Lv 5, each levels increase passively any kind of poison elements attack damage by 4%"
+        },
+        "enchant_deadly_poison": {
+            "1": "The additional damage of this skill is reduced by a third if the attack is not of poison element (which can be granted with Enchant Poison skill)",
+            "2": "Since Deadly Poison is a DoT (damage on time) status this ailment behave like other DoTs (in a nutshell : it's more powerfull) and can affect Boss"
+        },
+        "grimtooth": {
+            "1": "Those skills have half more chance to apply status effect coming from arrows and cards"
+        },
+        "throw_venom_knife": {
+            "1": "Up to Lv 5, each level after the first adds chance to inflict status",
+            "2": "Status rate formula is (10 + 10 * SkillLv + 4 * Envenom SkillLv)%",
+            "3": "Poison is replaced by Venom, which is a DoT status based on LUK has OFFStat and VIT has DEFStat, VIT of the target can prevent this common status",
+            "4": "Venom is affected by Detoxify and Slow Poison, just like other DoT",
+            "5": "Venom used with this skill works differently than other DoT : it can be stacked up to 4 times, each new stack refresh status duration",
+            "6": "Venom damage formula is based on regular DoT formula with but is lower at start and grows has stacks grows : Overall damage = (50 + 25 * Stack)% DoT's damage",
+            "7": "Venom count other DoT has an additional stack for its damage calculation"
+        },
+        "sonic_blow": {
+            "1": "The skill have better damage (overall 10%) and gives 5% more chance per SkillLv to hit the target (this is not a HIT bonus)",
+            "2": "Sonic Acceleration do not affect this skills anymore (the effects are already given)"
+        },  
+        "sonic_acceleration": {
+            "1": "Up to Lv 5, this skill no longer affect Sonic Blow (which already have those effects integrated)",
+            "2": "Each SkillLv increase rate to apply a status effects by 3% (Sonic Blow, which have 30% to apply stun, will have 34,5% instead)",
+            "3": "This skill works with nearly EVERY status effects with rate chance, not only common status"
+        },
+        "venom_splasher": {
+            "1": "Can be used on target with any HP",
+            "2": "Usable on boss but if HP are below 80%",
+            "3": "Cured by Detoxify and Green Potion (TODO)",
+            "4": "Damage formula is changed for (500 + SkillLv * (50 + INT / 2))%"
+        },        
+        "venom_dust": {
+            "1": "Status effects cannot be resisted at all, neither success rate nor duration",
+            "2": "Duration is set to 3s pr Lv",
+            "3": "Add Blind status to effects"
+        },
+        "soul_destroyer": {
+            "1": "Fix damage are based on BaseLv of user"
+        },
+        "close_confine": {
+            "1": "Up to Lv 5 : Each levels after the first increase the FLEE bonus by 5 (up to +30 at level 5)"
+        },
+        "raid": {
+            "1": "Area is set to 5x5 (against official 3x3)",
+            "2": "For kugan usage : Lv 6 does double hits (with increased formula) but also have a cooldown set to 10s"
+        },
+        "intimidate": {
+            "1": "Warp functionality affects only evens SkillLv",
+            "2": "Levels above 5 have an internal cooldown set to 5s",
+            "3": "This skills hit harder if target have already lost some HP : Every HP% lost adds 1% to overall damage",
+            "4": "This skills hit harder if target is under Strips effects : Each Strip active adds (SkillLv * 20)% to formula, BUT if all strips are actives then those bonus are reduce to only (SkillLv * 30)%",
+            "5": "Skill have now an after skill delay of 0,5s",
+            "6": "For kugan usage : Lv 6 have a cooldown set to 10s"
+        },
+        "strip_weapon": {
+            "1": "Success chance formula is (5 + 2 * SkillLv + DEXD * 0,2)%, where DEXD is user's DEX - target's DEX but can't be negative",
+            "2": "If user have Full Strip then chances are augmented by 1/5e per FS SkillLv (up to double chances)"
+        },
+        "strip_helm": {
+            "1": "Success chance formula is (5 + 2 * SkillLv + DEXD * 0,2)%, where DEXD is user's DEX - target's DEX but can't be negative",
+            "2": "If user have Full Strip then chances are augmented by 1/5e per FS SkillLv (up to double chances)",
+            "3": "Helm stripped on mob reduce MDEF2 to 0 and INT by 40% (instead of only reducing VIT)"
+        },
+        "strip_shield": {
+            "1": "Success chance formula is (5 + 2 * SkillLv + DEXD * 0,2)%, where DEXD is user's DEX - target's DEX but can't be negative",
+            "2": "If user have Full Strip then chances are augmented by 1/5e per FS SkillLv (up to double chances)"
+        },
+        "strip_armor": {
+            "1": "Success chance formula is (5 + 2 * SkillLv + DEXD * 0,2)%, where DEXD is user's DEX - target's DEX but can't be negative",
+            "2": "If user have Full Strip then chances are augmented by 1/5e per FS SkillLv (up to double chances)",
+            "3": "Armor stripped on mob reduce DEF2 to 0 and VIT by 40% (instead of only reducing VIT)"
+        },
+        "back_stab": {
+            "1": "Lv above 4 have an internal cooldown of 1s per Lv (0/0/0/0/1/2/3/4/5/6s)",
+            "2": "With bow deals (300 + 60 * SkillLv)% (up to 440% with no CD at Lv 4, up to 900% with CD at Lv 10)",
+            "3": "With dagger deals (500 + 80 * SkillLv)% (up to 820% with no CD at Lv 4, up to 1300% with CD at Lv 10)",
+            "4": "With other weapons (than dagger and bow) deals (400 + 70 * SkillLv)% (up to 680% with no CD at Lv 4, up to 1100% with CD at Lv 10)"
+        },
+        "chase_walk": {
+            "1": "STR bonus is 4 * SkillLv "
+        },
+        "reject_sword": {
+            "1": "Works on all weapons but with halved rates",
+            "2": "For kugan usage : Lv 6+ add more use of Reject effect (up to 6 uses at Lv 10) and the rates of success (5% per SkillLv)"
+        },
+        "preserve": {
+            "1": "Up to Lv 5, casting time is 1/0,5/0/0/0 seconds, duration 300 + 300 * SkillLv seconds",
+            "2": "The plagia skill cost 4*SkillLv% less SP, inflict SkillLv% more damages, has a cast time and after skill delay reduce by 2*SkillLv%"
+        },
+        "taekwon_mission": {
+            "1": "Up to Lv 5, this skill act has an active AND a passive now",
+            "2": "Each levels of this skill increase passively maximum HP by 2% per Peaceful Break SkillLv (only for a Taekwon)",
+            "3": "Each levels of this skill increase passively maximum SP by 2% per Happy Break SkillLv (only for a Taekwon)",
+            "4": "When used this skill gives infinite combo for 5 seconds + 1 per seconds per SkillLv",
+            "5": "Casting time of this skill is set to 5 seconds"
+        },
+        "prepare_whirlwind_kick": {
+            "1": "Up to Lv 5, each level adds 2% chance to activate the stance on hitting a target",
+            "2": "This stance grants 2 * SkillLv% bonus to FLEE when activated (15 seconds duration)"
+        },
+        "prepare_axe_kick": {
+            "1": "Up to Lv 5, each level adds 2% chance to activate the stance on hitting a target",
+            "2": "This stance grants 2 * SkillLv% bonus to HIT when activated (15 seconds duration)"
+        },
+        "prepare_round_kick": {
+            "1": "Up to Lv 5, each level adds 2% chance to activate the stance on hitting a target",
+            "2": "This stance grants 2 * SkillLv% bonus to maximum HP when activated (15 seconds duration) then gives a heal of 1,5 * SkillLv% maximum HP when activated"
+        },
+        "prepare_counter_kick": {
+            "1": "Up to Lv 5, each level adds 2% chance to activate the stance on hitting a target",
+            "2": "This stance grants 2 * SkillLv bonus to Critical when activated (15 seconds duration)"
+        },
+        "whirlwind_kick": {
+            "1": "This skill has a 10% bonus damage per SkillLv",
+            "2": "The critical rate of this skill is doubled"
+        },    
+        "axe_kick": {
+            "1": "This skill has a 10% bonus damage per SkillLv",
+            "2": "The critical rate of this skill is doubled"
+        },
+        "round_kick": {
+            "1": "This skill has a 10% bonus damage per SkillLv",
+            "2": "The critical rate of this skill is doubled"
+        },
+        "counter_kick": {
+            "1": "This skill has a 10% bonus damage per SkillLv",
+            "2": "The critical rate of this skill is doubled"
+        },
+        "happy_break": {
+            "1": "Scroll consumption effects is effective on all scroll with Bolts skills but chance to consume is now (50 - 4 * SkillLv)%"
+        },            
+        "break_fall": {
+            "1": "Up to Lv 5, each level after the first adds 3% chance"
+        },
+        "flying_side_kick": {
+            "1": "Also remove all ASPD effects like Adrenaline, 2 Handed Quicken, all potions, etc..."
+        },
+        "warmth_of_the_sun": {
+            "1": "Up to Lv 5 : Duration is now 15 seconds per SkillLv, deals HP and SP damage on players",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "SP damage is base on the following formula (BaseLv / 5)",
+            "4": "Warmth of the Sun : No pushback but hit twice"
+        },
+        "warmth_of_the_moon": {
+            "1": "Up to Lv 5 : Duration is now 15 seconds per SkillLv, deals HP and SP damage on players",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "SP damage is base on the following formula (BaseLv / 5)",
+            "4": "Warmth of the Moon : No pushback but heal the user instead of damaging (heal =  20% per SkillLv of total user's attributes)"
+        },
+        "warmth_of_the_stars": {
+            "1": "Up to Lv 5 : Duration is now 15 seconds per SkillLv, deals HP and SP damage on players",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "SP damage is base on the following formula (BaseLv / 5)",
+            "4": "Warmth of the Stars : Pushback doubled and chance of infirmity (-50% SPD) for 1,5 seconds per SkillLv (25 + 15% per SkillLv)"
+        },
+        "comfort_of_the_sun": {
+            "1": "Up to Lv 5 : The fifth level adds 80 seconds to duration",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "Comfort of the Sun : Gives ATK/CRIT (20% per SkillLv of LV+DEX+LUK/4 for ATK and LV+DEX+LUK/20 for CRIT)",
+            "4": "For kugan usage : Levels after the fifth adds 10% per SkillLv only"            
+        },
+        "comfort_of_the_moon": {
+            "1": "Up to Lv 5 : The fifth level adds 80 seconds to duration",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "Comfort of the Moon : Gives DEF/DEF2/MDEF/MDEF2 (20% per SkillLv of LV+DEX+LUK/2 for DEF2/MDEF2 and LV+DEX+LUK/20 for DEF/MDEF)",
+            "4": "For kugan usage : Levels after the fifth adds 10% per SkillLv only"            
+        },
+        "comfort_of_the_stars": {
+            "1": "Up to Lv 5 : The fifth level adds 80 seconds to duration",
+            "2": "Needs to be on the corresponding active stance",
+            "3": "Comfort of the Stars : Gives FLEE/ASPD (20% per SkillLv of LV+DEX+LUK for ASPD and LV+DEX+LUK/10 for FLEE)",
+            "4": "For kugan usage : Levels after the fifth adds 10% per SkillLv only"
+        },
+        "anger_of_the_sun": {
+            "1": "Up to Lv 5 : Passively gives to all kicks skill a chance to apply some effects (for a duration of 8 seconds + 2 seconds per SkillLv)",
+            "2": "Needs to be on the corresponding passive stance",
+            "3": "Anger of the Sun : 4% per SkillLv chance to inflict Burning on kicks, adds Bleeding chance on the hatred target",
+            "4": "For kugan usage : Levels after the fifth adds 2% per SkillLv only"
+        },
+        "anger_of_the_moon": {
+            "1": "Up to Lv 5 : Passively gives to all kicks skill a chance to apply some effects (for a duration of 8 seconds + 2 seconds per SkillLv)",
+            "2": "Needs to be on the corresponding passive stance",
+            "3": "Anger of the Moon : 4% per SkillLv chance to inflict Blind on kicks, adds Silence chance on the hatred target",
+            "4": "For kugan usage : Levels after the fifth adds 2% per SkillLv only"            
+        },
+        "anger_of_the_stars": {
+            "1": "Up to Lv 5 : Passively gives to all kicks skill a chance to apply some effects (for a duration of 8 seconds + 2 seconds per SkillLv)",
+            "2": "Needs to be on the corresponding passive stance",
+            "3": "Anger of the Stars : 4% per SkillLv chance to inflict Curse on kicks, adds Confusion chance on the hatred target",
+            "4": "For kugan usage : Levels after the fifth adds 2% per SkillLv only"            
+        },
+        "hatred_of_the_sun_moon_and_stars": {
+            "1": "Memorize a hatred target & activate a 'passive' Sun, Moon or Star stance for 300 seconds",
+            "2": "Each use replace other stances"
+        },
+        "feeling_of_the_sun_moon_and_stars": {
+            "1": "Instead of memorizing maps, this skill activate an 'active' Sun Stance for 300 seconds",
+            "2": "Each use replace other stances"
+        },
+        "demon_of_the_sun_moon_and_stars": {
+            "1": "As a malus, this skill makes the screen darker to reduce vision and there is a 3% chance to do a scratch to the target, which means 1 damage, instead of full damage"
+        },
+        "knowledge_of_the_sun_moon_and_stars": {
+            "1": "Weight capacity is strongly reduced but always active (3% per SkillLv)"
+        },
+        "union_of_the_sun_moon_and_stars": {
+            "1": "Up to Lv 5, increase speed, gives chance to ignore target's defense 5% per Skill, and gives 20% per SkillLv to hit automatically, duration is set to 180s",
+            "2": "Because of Blind effect due to 'Demon of the Sun, Moon and Stars', you have a chance to inflict no damage, showed by a 'Miss' on you target. This malus can be reduced by Union of the Sun, Moon and Stars",
+            "3": "A Star Gladiator under Spirit effects retrieve the old skill functionality which bypass DEF",
+            "4": "At level 5 this skill grants passively the possibility to stack a passive & a active stance",
+            "5": "Changes on this skill imply that this skill is accessible in the Skill Tree without being under Star Gladiator Spirit state"
+        },
+        "crusader_spirit": {
+            "1": "Added effect : Under this spirit, damages taken with devotion are reduced by 20%",
+            "2": "Also increase MDEF by 10% + 5"
+        },
+        "knight_spirit": {
+            "1": "Added effect : Under this spirit, 'Spear Boomerang' deals double damage and ignores flee",
+            "2": "Also increase DEF by 10% + 5"
+        },        
+        "super_novice_spirit": {
+            "1": "Added effect : Double the maximum of HP/SP and it heals the target in the process",
+            "2": "The healing effect only happens if the spirit was not active before"
+        },
+        "wizard_spirit": {
+            "1": "Added effect : Under this spirit, target's MATK is increased by 15% and Casting Time is reduced by 15%"
+        },
+        "sage_spirit": {
+            "1": "Added effect : Under this spirit, target's MATK is increased by 15% and Casting Time is reduced by 15%"
+        },
+        "priest_spirit": {
+            "1": "Added effect : Under this spirit, target's healing power of skills is increase by 20%"
+        },
+        "monk_spirit": {
+            "1": "Added effect : Under this spirit and with an active combo, the base ATK of the target is increased by a third"
+        },
+        "assassin_spirit": {
+            "1": "Added effect : Under this spirit, target gets a critical rate bonus of 10% + 10",
+            "2": "Also increase chance and duration of all common status by a third"
+        },
+        "rogue_spirit": {
+            "1": "Added effect : Under this spirit, there is a chance to ignore equipement immunity when the target is performing a divest",
+            "2": "Base chance is 10% and each point in DEX gives 0,20% chance"
+        },        
+        "blacksmith_spirit": {
+            "1": "Added effect : Under this spirit, there is a chance to ignore equipement immunity when the target is performing a break",
+            "2": "Base chance is 10% and each point in STR gives 0,20% chance"
+        },
+        "soul_linker_spirit": {
+            "1": "Added effect : Under this spirit, all skills used have a duration increased by half"
+        },
+        "estin": {
+            "1": "Up to Lv 10, damage formula is now (15 * SkillLv)%",
+            "2": "For kugan usage : Each level after the tenth grants a pushback increased by 1 per level but have a cooldown set to 2 seconds"
+        },        
+        "estun": {
+            "1": "Up to Lv 10, damage formula is now (15 * SkillLv)%",
+            "2": "For kugan usage : Each level after the tenth grants more duration to stun effect, 20% per level but have a cooldown set to 2 seconds"
+        },
+        "eswoo": {
+            "1": "Up to Lv 10, increasing effects duration",
+            "2": "Duration on bosses is reduced by only a third",
+            "3": "For kugan usage : Each level after the tenth increase effects duration by 2 seconds per SkillLv but have a cooldown set to 10 seconds"
+        },
+        "eske": {
+            "1": "Up to Lv 5, duration is set to 30 seconds and casting time is set to 2 seconds",
+            "2": "Target's physical and magical damages are increased by 3*SkillLv%",
+            "3": "DEF and MDEF are reduced by 4*SkillLv%, DEF2 and MDEF2 are reduced by 10*SkillLv%"
+        },
+        "eska": {
+            "1": "Up to Lv 5, Duration is set to 30 seconds and casting time is set to 2 seconds",
+            "2": "Monster's chance to use their skill are reduced by 5*SkillLv%",
+            "3": "Monster's skills delay are increased by 5*SkillLv%",
+            "4": "Works on bosses and MvPs"
+        },
+        "kaahi": {
+            "1": "Up to Lv 10, heal formula is modified in order to take the target's level into account, full effect at level 99",
+            "2": "Healing formula is now (Target's BaseLevel + 1)*2 per SkillLv for each Hit, max Heal at 2 000 HP per Hit"
+        },
+        "kaupe": {
+            "1": "Up to Lv 5, formula chance is (25 + 25*SkillLv)%",
+            "2": "This effect can be activated once and once again every 4 levels, each activation reduce activation chance by 100%"
+        },
+        "kaite": {
+            "1": "Up to Lv 10, Casting Time and Skill Delay are changed to match up level 8, but not after",
+            "2": "Now this skill can affect targets with a level inferior to 10 + 10% of user's BaseLv",
+            "3": "Level check is also effective for players",
+            "4": "For kugan usage : Starting at level 15, there is no level limit anymore"
+        },
+        "kaina": {
+            "1": "Up to Lv 10, SP cost reduction formula is now SkillLv * BaseLv * 0,1%",
+            "2": "Maximum SP cost reduction is still 49,5%"
+        },
+        "kaizel": {
+            "1": "Up to Lv 10, minimum casting time is 1,5 seconds (reach at level 7)",
+            "2": "For kugan usage : After the tenth level, the level and duration of Kyrie Eleison buff are increased by 20% per SkillLv"
+        },      
+        "bull_s_eye": {
+            "1": "Up to Lv 5 : Damage formula is now (250 + 30*SkillLv)%",
+            "2": "Inflict the status Weak (Which reduce chance to perform critical and increase chance to endure one) for 3 seconds per SkillLv (resisted by DEF)",
+            "3": "This skill can coma all type of targets with 0,1*SkillLv % chance",
+            "4": "Status chance are (80 + LUK*0,5)%",
+            "5": "This skill works on all type of target"
+        },
+        "madness_canceller": {
+            "1": "Up to Lv 5 : Each level after the first adds 50 mastery damage (which ignores DEF)"
+        },        
+        "adjustment": {
+            "1": "Up to Lv 5 : Hit reduced by (14 + SkillLv)% (instead of 30)",
+            "2": "Now gives (26 + 4*SkillLv)% of BaseLv to Flee",
+            "3": "Now gives (17 + 3*SkillLv)% of BaseLv to Long Range damage reduction",
+            "4": "Now gives (8 + 2*SkillLv)% of BaseLv to Perfect Flee"
+        },
+        "chain_action": {
+            "1": "With a revolver chance are (6 * SkillLv)%",
+            "2": "Works with other weapons at (4 * SkillLv)%"
+        },
+        "tracking": {
+            "1": "Damage formula is (100 + X * SkillLv * Y)% where X is distance between user and target (in cells) and Y is 20%",
+            "2": "A critical hit reduce target's DEF by 6 + LUK * 0,25",
+            "3": "Critical damages are augmented by half on bosses",
+            "4": "For kugan usage : Each level after the tenth reduce Y by 1% per SkillLv",
+            "5": "For kugan usage : Each level after the tenth also increase range by 1 cell (for a maximum of 14 cells at level 15)"
+        },
+        "piercing_shot": {
+            "1": "Damage formula is the same for all weapons (200 + 20 * SkillLv)%"
+        },
+        "desperado": {
+            "1": "Critical Tate and Hit Rate are reduced by half when using this skill"
+        },
+        "gatling_fever": {
+            "1": "This skill increase ATK by (20 + 10 * SkillLv)",
+            "2": "This skill increase Critical Rate by 2 per SkillLv",
+            "3": "Flee reduction is now 10% + 3 (fixed value) per SkillLv"
+        },
+        "dust": {
+            "1": "Damage formula is now (150 + 50*SkillLv)%",
+            "2": "SP cost is 10 + 2 * SkillLv",
+            "3": "Casting Time and After Skill Delay are set to 0,5 seconds (no DEX reduction anymore)",
+            "4": "For kugan usage : Each level after the tenth adds 1 cell to pushback per SkillLv but those levels imply 5 seconds cooldown on the skill"
+        },        
+        "full_buster": {
+            "1": "Damage formula is now (400 + 100*SkillLv)%",
+            "2": "Casting Time is set to 0,5 seconds (no DEX reduction), after skill delay is set to 1 seconds, after skill walk is set to 2 seconds, cooldown is set to 5 seconds",
+            "3": "User and target are stun for 0,1 seconds per SkillLv, it is very difficult for target to resist this effect",
+            "4": "The more the target is close the more this skill inflict damages (5 more % per cells, up to 50%)",
+            "5": "For kugan usage : After the tenth level the cooldown is increased by 0,5 seconds"
+        },
+        "spread_attack": {
+            "1": "For kugan usage : Up to level 15 :",
+            "2": "Lvl 11 : Area of Effect is a 9 x 9 area, damage are based on 300% of caster's ATK",
+            "3": "Lvl 12 : Area of Effect is a 9 x 9 area, damage are based on 320% of caster's ATK",
+            "4": "Lvl 13 : Area of Effect is a 11 x 11 area, damage are based on 340% of caster's ATK",
+            "5": "Lvl 14 : Area of Effect is a 11 x 11 area, damage are based on 360% of caster's ATK",
+            "6": "Lvl 15 : Area of Effect is a 11 x 11 area, damage are based on 380% of caster's ATK"
+        },
+        "ground_drift": {
+            "1": "Damage is now (200 + 20 * SkillLv)% (instead of 100% on pre-re)",
+            "2": "Adds 50% of the (BaseLv + INT) per SkillLv (and not a fix 50)"
+        },
+        "triple_action": {
+            "1": "Up to Lv 5 : Each hit inflicts (135 + 15 * SkillLv)%",
+            "2": "If target's HP are under 33%, each % missing adds 3% to actual damage of this skill (ex : up to +97% if target have only 1% HP)"
+        },
+        "fling": {
+            "1": "Up to Lv 5, cooldown 2 seconds per Lv",
+            "2": "Damage formula is (SkillLv * 2 * (BaseLv + DEX))",
+            "3": "Twice damage on monsters, defense reduction affect players as well"
+        },             
+        "cracker": {
+            "1": "Up to Lv 5 : Chance to inflict stun is (55 + 5*SkillLv)%",
+            "2": "Chance are reduced by (4 + SkillLv)% per row between the user and his target",
+            "3": "Minimum chance are (28 + 2*SkillLv)%"
+        },
+        "increasing_accuracy": {
+            "1": "Up to Lv 5 : Hit increased by (9 + SkillLv)%",
+            "2": "DEX and AGI increased by (3 + SkillLv)"
+        },        
+        "magical_bullet": {
+            "1": "Up to Lv 5 : This skill have now a casting time of 0,3 seconds, not affected by DEX",
+            "2": "Damage formula is based on a random value between min MATK and max MATK",
+            "3": "Damage calculation formula is : RandomValue between minMatk and maxMatk x (80 + 20 * SkillLv) x (100 - DEF)  x (100 - DEF)  / 1000000",
+            "4": "Each levels after the first adds 20% to damage",
+            "5": "Target's MDEF also reduce damage, since damage are physical this MDEF can't be ignore, etc",
+            "6": "For kugan usage : After the fifth level damage are doubled (2 hits), SP cost is doubled, casting time is set to 0,5 seconds and their is a cooldown of 5s"
+        },
+        "throwing_mastery": {
+            "1": "Each level increase critical chance by 1 for all ninja's Throw skills",
+            "2": "Each level increase critical rate by 2% for all ninja's Throw skills",
+            "3": "For example : If the user have 30 Critical Rate, this skill at level 10 increase chance to 30*1,3+10 = 49"
+        },
+        "throw_shuriken": {
+            "1": "Increase fix damage by +DEX for each SkillLv",
+            "2": "Inflicts the status 'Brake' (Which reduce ASD/CAST/ASPD) for 2 seconds per SkillLv (resist can occurre thanks to DEF)",
+            "3": "Status chance are (80 + LUK*0,5)%"
+        },        
+        "throw_kunai": {
+            "1": "Adds fix damage by +3*DEX for each SkillLv",
+            "2": "Inflict the status effect Crack (which reduce DEF/MDEF/DEF2/MDEF) for 2 seconds per SkillLv (resisted by DEF)",
+            "3": "Status chance are (80 + LUK*0,5)%"
+        },
+        "throw_zeny": {
+            "1": "No damage reduction against bosses",
+            "2": "Damage reduction against player is 25% instead of 50%"
+        },
+        "shadow_jump": {
+            "1": "No map restrictions"
+        },
+        "shadow_slash": {
+            "1": "No map restrictions",
+            "2": "For kugan usage : After the fifth level their is a 1 second cooldown + 1 second per SkillLv after 5"
+        },
+        "crimson_fire_blossom": {
+            "1": "Now have a cast time of 0,7s per SkillLv and no ASD",
+            "2": "All skills hits for 80% of MATK and they hit once per SkillLv",
+            "3": "Crimson Fire Blossom can provoke Burning for 2,5 seconds per SkillLv (resisted by MDEF)",
+            "4": "Status chance are (80 + LUK*0,5)%"
+        },
+        "wind_blade": {
+            "1": "Now have a cast time of 0,7s per SkillLv and no ASD",
+            "2": "All skills hits for 80% of MATK and they hit once per SkillLv",
+            "3": "Wind Blade can provoke Chill for 1,5 seconds per SkillLv (resisted by MDEF)",
+            "4": "Status chance are (80 + LUK*0,5)%"
+        },
+        "lightning_spear_of_ice": {
+            "1": "Now have a cast time of 0,7s per SkillLv and no ASD",
+            "2": "All skills hits for 80% of MATK and they hit once per SkillLv",
+            "3": "Lightning Spear can provoke Feeble for 2 seconds per SkillLv (resisted by MDEF)",
+            "4": "Status chance are (80 + LUK*0,5)%"
+        },
+        "crimson_fire_formation": {
+            "1": "Damage formula is now (25+5*SkillLv)",
+            "2": "Each hit have 30% chance to inflict Fever (increase all damage recieved for 25%) for 3 seconds per skillLv (resisted by MDEF)",
+            "3": "Now this skill delivers 1 hit per SkillLv",
+            "4": "Status chance are (20 + LUK*0,125)%"
+        },
+        "dragon_fire_formation": {
+            "1": "Up to Lv 10 : After the Fifth level the cast is increased by 0,4s per SkillLv and the skill have have a 10 seconds cooldown",
+            "2": "For Kugan usage : At level 11 and more the area is set to 7x7, cooldown is 15s"
+        },
+        "watery_evasion": {
+            "1": "AGI penality is now 2 per SkillLv and Movespeed penality is now (20+3*SkillLv)%",
+            "2": "For Kugan usage : Area is 11x11 at level 13+"
+        },        
+        "falling_ice_pillar": {
+            "1": "Up to Lv 10 : After the fifth level, the cast is increased by 0,4s per SkillLv and the skill has a 10 seconds cooldown",
+            "2": "For Kugan usage : Cooldown is set to 15s"
+        },
+        "north_wind": {
+            "1": "Up to Lv 10 : After the fifth level, the cast is increased by 0,4s per SkillLv and the skill have have a 10 seconds cooldown",
+            "2": "For Kugan usage : Each level after the tenth adds 1 to range cells, cooldown is set to 15s"
+        },
+        "lightning_jolt": {
+            "1": "Up to Lv 10, at level 7 area is 11x11, at level 9 area is 13x13"
+        },        
+        "final_strike": {
+            "1": "This skill can be used no matter the HP left",
+            "2": "For odd SkillLv, Damage formula is (BaseLv * (STR + DEX) / 3 + SkillLv * 0,12 * HP lost) per SkillLv",
+            "3": "For even SkillLv, Damage formula is (BaseLv * (STR + DEX) / 3 + SkillLv * 0,08 * HP left) per SkillLv"
         }
     }
 }

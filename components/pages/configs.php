@@ -1,10 +1,10 @@
 <article id="configs">
-    <h2 class="major">Configurations Serveur</h2>
-    <span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-    <p>Voici les configurations principales de <a href="#">DARO</a>.</p>
+    <h2 class="major" data-trans="pages.configs.1"></h2>
+    <span class="image main"><img src="images/ban01.jpg" alt="Rivendel" /></span>
+    <p data-trans="pages.configs.2"><a href="#">DARO</a>.</p>
     
     <div class="info_frame">
-        <h4>Configurations Principales</h4>
+        <h4 data-trans="pages.configs.3"></h4>
         <ul>
             <li>Episode 14.2</li>
             <li>US & EU servers</li>
@@ -18,13 +18,13 @@
     </div>
 
     <div class="info_frame">
-        <h4>Autres Configurations</h4>
+        <h4 data-trans="pages.configs.4"></h4>
         <ul>
             <li>Max stats: 99</li>
             <li>Max ASPD: 190</li>
-            <li>Hair Colors: ???</li>
+            <li>Hair Colors: 251</li>
             <li>Hair Styles: 87 female, 85 male</li>
-            <li>Dye Colors: 251</li>
+            <li>Dye Colors: 551</li>
             <li>Instant cast: No</li>
             <li>Party share: 15 levels</li>
             <li>Capital City : Midgard (Custom)</li>

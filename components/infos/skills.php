@@ -2,13 +2,13 @@
     <h2 class="major">Modification Skills</h2>
     
     <div class="info_frame">
-        <p>Les skills du jeu ont été modifiés en respectants les objectifs suivants (dans cet ordre d'importance):</p>
+        <p data-trans="infos.skills.1"></p>
         <ul>
-            <li>Pour générer des stratégies nouvelles</li>
-            <li>Rendre utile des skills qui ne l'était pas/plus</li>
-            <li>Pour équilibrer le jeu</li>
-            <li>Permettre à tous les skills d'avoir au moins 5 niveaux</li>
-            <li>Permettre à certains skills d'être utiles à un niveau supérieur à leur maximum (pour les spécialisations)</li>
+            <li data-trans="infos.skills.2"></li>
+            <li data-trans="infos.skills.3"></li>
+            <li data-trans="infos.skills.4"></li>
+            <li data-trans="infos.skills.5"></li>
+            <li data-trans="infos.skills.6"></li>
         </ul>
     </div>
 
@@ -43,7 +43,7 @@
     </div>
 
     <div class="info_frame">
-        <h3>Other jobs</h3>
+        <h3>Extended jobs</h3>
         <a href="#taekwon"><image src="https://ratemyserver.net/skill_chars/j4046_m_stand.gif"><image src="https://ratemyserver.net/skill_chars/j4046_f_stand.gif"></a>
         <a href="#star_gladiator"><image src="https://ratemyserver.net/skill_chars/j4047_m_stand.gif"><image src="https://ratemyserver.net/skill_chars/j4047_f_stand.gif"></a>
         <a href="#soul_linker"><image src="https://ratemyserver.net/skill_chars/j4049_m_stand.gif"><image src="https://ratemyserver.net/skill_chars/j4049_f_stand.gif"></a>
