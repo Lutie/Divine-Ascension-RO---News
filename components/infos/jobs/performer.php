@@ -2,15 +2,6 @@
     <h2 class="major">Skills - Performer</h2>
 
     <div class="info_frame">
-        <h3><image src="https://ratemyserver.net/skill_icons/al_angelus.gif"> Angelus</h3>
-        <ul>
-            <li data-trans="skills.blessing.1"></li>
-            <li data-trans="skills.blessing.2"></li>
-            <li data-trans="skills.blessing.3"></li>
-        </ul>
-    </div>
-
-    <div class="info_frame">
         <h3><image src="https://ratemyserver.net/skill_icons/bd_adaptation.gif"> Adaptation to Circumstances</h3>
         <ul>
             <li data-trans="skills.adaptation_to_circumstances.1"></li>

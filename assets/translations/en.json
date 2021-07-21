@@ -334,7 +334,7 @@
             "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"
         },
         "chain_crush_combo": {
-            "1": "This skill inflict an effect for 10 seconds [skill-db.yml, duration 1] that decrease DEF and MDEF by 4 per SkillLv"
+            "1": "This skill inflict an effect for 10 seconds that decrease DEF and MDEF by 4 per SkillLv"
         },        
         "combo_finish": {
             "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"

@@ -27,7 +27,7 @@
             "8": "Tous les projets étaient basés sur le concept du Custom. Nous avons fait de notre mieux pour être aussi proche de l'équilibre et la perfection tout en ayant des fonctionnalités uniques qui n'existent nulle part.",
             "9": "Notre objectif est de créer un environnement que les joueurs n'ont jamais vu. Quelque chose qui va au-delà de tout ce qu'on peut s'imaginer de Ragnarok Online.",
             "10": "Ce dernier opus a déployé tout ce que nous pouvions faire et sera probablement le dernier. Toutes les fonctionnalités et les choses que nous avons créées au cours des 15 dernières années se réunissent enfin ensemble et forment une belle et parfaite harmonie.",
-            "11": "Nous espérons vraiment que vous l'appr�cierez.",
+            "11": "Nous espérons vraiment que vous l'apprécierez.",
             "12": "               Team Mystic",
             "20": "Lutie : Admin EU & Développeur (Codage, Script, base de données, web) & Game Designer",
             "21": "Grenat : Admin US & Développeuse (Codage, Script, base de données, mappage, client)",
@@ -334,7 +334,7 @@
             "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"
         },
         "chain_crush_combo": {
-            "1": "This skill inflict an effect for 10 seconds [skill-db.yml, duration 1] that decrease DEF and MDEF by 4 per SkillLv"
+            "1": "This skill inflict an effect for 10 seconds that decrease DEF and MDEF by 4 per SkillLv"
         },        
         "combo_finish": {
             "1": "This skill adds damage based on actual left HP% of the target, up to 50% (if target's HP are full)"
